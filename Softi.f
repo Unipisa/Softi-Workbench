@@ -20,7 +20,7 @@
     18 S = 0
        DO 14 I = 1, NB
     14 S = S + T(I)
-       S1 = S / NB
+       S1 = S / FLOATF(NB)
        T(I) = S1
        GO TO 20
     19 T(I) = T(I - 1)
