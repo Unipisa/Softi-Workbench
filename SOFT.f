@@ -15,7 +15,14 @@
     15 FI = KFI(I)
        FI1 = KFI(I + 1)
        T(I) = FI1 - FI
-       IF (T(I)) 20, 19, 20
+       IF (T(I)) 20, 16, 20
+    16 IF (I - 1) 18,18,19
+    18 S = 0
+       DO 14 I = 1, NB
+    14 S = S + T(I)
+       S1 = S / NB
+       T(I) = S1
+       GO TO 20
     19 T(I) = T(I - 1)
     20 AT = ABSF(T(I))
        XA = 0
@@ -26,15 +33,15 @@
     30 J = I
        R = AT - K * DELT
     35 IF (XZ - N * TAU(L)) 40, 50, 50
-    40 IF (ABSF(XA - AI) - DELT) 45, 25, 25
+    40 IF ((AT - XA) - (DELT / 2.)) 45, 25, 25
     45 I = I + 1
-       GO TO 15
+       IF (NB - 1) 15, 18, 15
     50 M = 0
        KFO = FO
        CALL PER(KFO, M)
+       I = J
        IF (NB - I) 60, 60, 55
     55 Z = Z+1
-       I = J
        T(I) = R
        FO = 0
        GO TO 20
