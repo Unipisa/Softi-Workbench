@@ -1,14 +1,29 @@
 # Softi Depository Catalogue
+<!-- -->
+bisogna decidere se meettre la collocazione dentro il depository, utile specie se i materiali sono organizzati in cartelle, come in questo caso.
 
+qui si deveno mettre sia le foto che i file di codice
 
-* **[LETT.LSDC](./MATERIAL/example_file.zip)**
+E' una palla mostruosa!
+
+Bisogna anche scegliere dei nomi significativi...
+<!-- -->
+
+* **[LETT.LSDC]()**
   * *Origin:* [Museo degli Strumenti per il Calcolo, Pisa](https://www.msc.sma.unipi.it/)
   * *Warehouse:* [MSC/SWHAP/CEP/Softi]()
-  * *Authors:* [Antonina (Tonina) Starita](./metadata/actors.md#Carlo_Montangero)
-  * *Collectors:* [Name Surname](./actors.md#name-surname)
-  * *Description:* 
-  * *Notes:*
+  * *Authors:* [Antonina (Tonina) Starita]()
+  * *Collectors:* [Carlo Montangero]()
+  * *Description:* CEP decimal assembler language routine to read from paper tape.
+  * *Notes:* Hand copied from the original in the Warehouse.
   
+* **[PER.LSDC]()**
+  * *Origin:* [Museo degli Strumenti per il Calcolo, Pisa](https://www.msc.sma.unipi.it/)
+  * *Warehouse:* [MSC/SWHAP/CEP/Softi]()
+  * *Authors:* [Antonina (Tonina) Starita]()
+  * *Collectors:* [Carlo Montangero]()
+  * *Description:* CEP decimal assembler language routine to punch to paper tape.
+  * *Notes:* Hand copied from the original in the Warehouse.
 
 # SW_NAME Depository Catalougue Tree
 
