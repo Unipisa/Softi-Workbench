@@ -1,8 +1,8 @@
 # Softi Depository Catalogue
 <!-- -->
-bisogna decidere se meettre la collocazione dentro il depository, utile specie se i materiali sono organizzati in cartelle, come in questo caso.
+bisogna decidere se mettere la collocazione dentro il depository, utile specie se i materiali sono organizzati in cartelle, come in questo caso.
 
-qui si deveno mettre sia le foto che i file di codice
+qui si deveno mettere sia le foto che i file di codice
 
 E' una palla mostruosa!
 
