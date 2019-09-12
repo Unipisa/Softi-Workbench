@@ -10,4 +10,4 @@ Folder [browsable source](./browsable_source) is for a browsable version of the 
 
 Folder [source](./source) is for a curated revision of the source code, in the format required by the [DT2SG](https://github.com/Unipisa/DIUNIPI-SWH-SSGC) tool to build the development history as a git repository, automatically in a bash environment. *Does it depends on some file in metadata?*
 
-The files in [metadata](/.metadata) shall be as described in the [SWHAP-PISA](https://github.com/Unipisa/SWHAP-DT2SG) guidelines.
+The files in [metadata](/.metadata) shall be as described in the [SWHAP-PISA](https://github.com/Unipisa/SWHAP-DT2SG) guidelines. *Should it be DT2SG? Or is the link misleading?*
