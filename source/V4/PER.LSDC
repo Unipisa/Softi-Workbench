@@ -1,0 +1,18 @@
+*LGX  #G3,G2,G1
+*LAR  #FO,M
+      #RPZ,-,M,-
+      #SR/=,-,-,LANDA //UN CARATTERE SOLO PER /=
+      #CA,-,-,-
+      #EAU,-,-,8192
+      #EAU,-,-,8192
+      #ZA,-,FO,-
+      #WLD,-,-,6
+      #EAU,-,-,8192
+      #EAU,-,-,8192
+      #WLS,-,-,6
+      #EAU,-,-,8192
+      #RIEN,-,-,-
+LANDA #CA,-,-,63
+      #EAU,-,-,8192
+      #RIEN,-,-,-
+*FIN   #
