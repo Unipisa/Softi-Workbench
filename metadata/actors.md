@@ -10,5 +10,5 @@
 
 * # Antonina (Tonina) Starita
   * *Affiliation*
-       * *Historical:* [Istituto di Elaborazione dell'Informazione del C.N.R.](https://www.isti.cnr.it/about.php)
+       * *Historical:* [Istituto di Elaborazione dell'Informazione del C.N.R.](https://www.isti.cnr.it/about.php#CEP)
   * *Roles:* Author
