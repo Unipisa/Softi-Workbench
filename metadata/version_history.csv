@@ -1,5 +1,5 @@
-directory name,author name,author email,author date,commit message
-V1,Tonina Starita,,13/02/1968,"|FIrst (incorrect) version"
-V2,Tonina Starita,,13/02/1968,"|First execution"
-V3,Tonina Starita,,06/03/1968,"|Second execution"
-V4,Tonina Starita,,04/04/1968,"|Third execution"
+directory name,author name,author email,date,curator name,curator email,release tag,commit message
+V1,Tonina Starita,,13/02/1968,Carlo Montangero,carlo@montangero.eu,*,"|FIrst (incorrect) version"
+V2,Tonina Starita,,13/02/1968,Carlo Montangero,carlo@montangero.eu,*,"|First execution"
+V3,Tonina Starita,,06/03/1968,Carlo Montangero,carlo@montangero.eu,*,"|Second execution"
+V4,Tonina Starita,,04/04/1968,Carlo Montangero,carlo@montangero.eu,*,"|Third execution"
