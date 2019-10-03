@@ -1,6 +1,6 @@
 # Softi Workbench
 
-### This is the workbench for the acquisition of the code developed for the CEP by Tonina Starita in 1968, to smoothen a curve. 
+### This is the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench for the acquisition of the CEP code to smoothen a curve, developed  by Tonina Starita in 1968. 
 
 Any [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench comes with a few predefined folders, to support the users in the process. 
 
@@ -12,4 +12,4 @@ Folder [source](./source) is for the curated revision of the source code, as a b
 
 Folder [metadata](/.metadata) holds various files with meta information used throughout the process. 
 
-Please refear to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
+Please refear to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details.
