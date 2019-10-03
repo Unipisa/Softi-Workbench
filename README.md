@@ -14,6 +14,6 @@ Finalized on 2019-10-03 producing
 
 * [CMM-Depository](https://github.com/Unipisa/Softi-Depository), where
 
-  + Folder [raw materials](https://github.com/Unipisa/Softi-Depository/raw_materials) is for the original materials, as they have been found or submitted.
+  + Folder [raw materials](https://github.com/Unipisa/Softi-Depository/tree/master/raw_materials) is for the original materials, as they have been found or submitted.
 
-  + Folder [browsable source](https://github.com/Unipisa/Softi-Depository/browsable_source) is for a browsable version of the source code. Source files, with right extention, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, immages should be trascibed, etc.
+  + Folder [browsable source](https://github.com/Unipisa/Softi-Depository/tree/master/browsable_source) is for a browsable version of the source code. Source files, with right extention, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, immages should be trascibed, etc.
