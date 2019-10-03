@@ -3,7 +3,7 @@
     "@type": "SoftwareSourceCode",
     "identifier": "a unique identifier",
     "description": "a brief description of the software",
-    "applicationCategory" : "Type of software application, e.g. 'Game, Multimedia'"
+    "applicationCategory" : "Type of software application, e.g. 'Game, Multimedia'",
     "name": "software name",
     "codeRepository":  "URL to related resources",
     "domain" : "Memory Management",
