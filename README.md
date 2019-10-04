@@ -2,18 +2,19 @@
 
 ### This is the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench for the acquisition of the CEP code to smoothen a curve, developed  by Tonina Starita in 1968. 
 
-Any [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench comes with a few predefined folders, to support the users in the process. 
+This repository was created with the support of the 
+[Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE) and contains the 
+[Information on the acquisition process](https://github.com/Unipisa/Softi-Workbench/tree/master/metadata).
 
-Folder [metadata](/.metadata) holds various files with meta information used throughout the process. 
+The original finds are stored in the [Depository](https://github.com/Unipisa/Softi-Depository) 
+containing the
+[raw materials](https://github.com/Unipisa/Softi-Depository/tree/master/raw_materials) and the
+[browsable source](https://github.com/Unipisa/Softi-Depository/tree/master/browsable_source).
 
-Please refear to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details.
+The resulting 
+[development history](https://github.com/Unipisa/Softi/tree/SourceCode/)  can be found in the [Softi repository](https://github.com/Unipisa/Softi).
 
-Finalized on 2019-10-03 producing
 
-* [CMM](https://github.com/Unipisa/Softi)
+Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines. 
 
-* [CMM-Depository](https://github.com/Unipisa/Softi-Depository), where
-
-  + Folder [raw materials](https://github.com/Unipisa/Softi-Depository/tree/master/raw_materials) is for the original materials, as they have been found or submitted.
-
-  + Folder [browsable source](https://github.com/Unipisa/Softi-Depository/tree/master/browsable_source) is for a browsable version of the source code. Source files, with right extention, have to be accessible through the GitHub web interface, e.g., archives should be decompressed, immages should be trascibed, etc.
+-------------------
