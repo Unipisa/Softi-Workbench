@@ -4,7 +4,11 @@
 
 ### The landing page
 
+posponed
+
 ### Media gallery moment 
+
+
 
 ### Wikipedia article moment 
 
@@ -17,6 +21,9 @@
 ### Wikidata statements moment
 
 ### Learn more moment
+
+[Proceedings of the 2009 conference on Computational Intelligence and Bioengineering: Essays in Memory of Antonina Starita]<https://dl.acm.org/doi/proceedings/10.5555/1659271#secAuthors
+https://dl.acm.org/doi/abs/10.5555/1659271.1659290>
 
 ### SWH source code moment
 
