@@ -8,6 +8,11 @@ posponed
 
 ### Media gallery moment 
 
+- foto cep
+- foto Tonina
+#### Foto codice 
+1. PER.LSDC - Routine to punchdata and code on paper tape. Decimal Symbolic Language for CEP (LSDC - Linguaggio Simbolico Decimale CEP)
+
 
 
 ### Wikipedia article moment 
