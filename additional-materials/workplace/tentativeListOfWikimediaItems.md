@@ -1,6 +1,6 @@
 ## Softi moments - a first attempt
 
-(headings from Morane's document)
+Let Q-softy denote the identiifer of the  
 
 ### The landing page
 
@@ -11,7 +11,14 @@ posponed
 - foto cep
 - foto Tonina
 #### Foto codice 
-1. PER.LSDC - Routine to punchdata and code on paper tape. Decimal Symbolic Language for CEP (LSDC - Linguaggio Simbolico Decimale CEP)
+1. PER.LSDC - Routine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC))
+* **[PER.LSDC]()**
+  * *Origin:* [Museo degli Strumenti per il Calcolo, Pisa](https://www.msc.sma.unipi.it/)
+  * *Warehouse:* [MSC/SWHAP/CEP/Softi]()
+  * *Authors:* [Antonina (Tonina) Starita]()
+  * *Collectors:* [Carlo Montangero]()
+  * *Description:* Routine to punch data and code on paper tape, written in the Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)). 
+  * *Notes:* 
 
 
 
