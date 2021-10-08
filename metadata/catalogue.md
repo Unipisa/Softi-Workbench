@@ -15,7 +15,7 @@ Bisogna anche scegliere dei nomi significativi...
   * *Authors:* [Antonina (Tonina) Starita]()
   * *Collectors:* [Carlo Montangero]()
   * *Description:* CEP decimal assembler language routine to read from paper tape.
-  * *Notes:* Hand copied from the original in the Warehouse.
+  * *Notes:* Hand typed from the original in the Warehouse.
   
 * **[PER.LSDC]()**
   * *Origin:* [Museo degli Strumenti per il Calcolo, Pisa](https://www.msc.sma.unipi.it/)
@@ -23,7 +23,7 @@ Bisogna anche scegliere dei nomi significativi...
   * *Authors:* [Antonina (Tonina) Starita]()
   * *Collectors:* [Carlo Montangero]()
   * *Description:* CEP decimal assembler language routine to punch to paper tape.
-  * *Notes:* Hand copied from the original in the Warehouse.
+  * *Notes:* Hand typed from the original in the Warehouse.
 
 # SW_NAME Depository Catalougue Tree
 

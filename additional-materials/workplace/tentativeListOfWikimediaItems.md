@@ -1,17 +1,49 @@
 ## Softi moments - a first attempt
+### Conventions
 
-Let Q-softy denote the identiifer of the  
+Wikidata items to be created (to the best of my knowlegde) are identified as Q*xxx.
+
+In the statements, I use braces to pair the name and value of a property.
+
+## Wikidata entities to be created for the Softi story
+
+Wikidata item: Q*1
+* Label: Softi
+* Description: An early programming exercise in Numerical Analysis.
+* Statements
+     * {instanceof: software(Q7397)}
+     * {creator: Tonina Starita(Q*2)}
+     * {platform: CEP - Calcolatrice Elettronica Pisana (Q3650499)}
+
+Wikidata item: Q*2
+* Label: Tonina Starita
+* Description: Italian computer scientist
+* Statements
+     * {name: value}
+
+## Images to be loaded to Wikimedia Commons for the Softi story
+
+They are in the SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons folder
+
+## Use of the above
+
+In the following we look at how to use the above entities, images, etc., together with items already in Wikimdeia, in the moments of the Softi story.
 
 ### The landing page
 
 posponed
 
 ### Media gallery moment 
+* [Vista della Calcolatrice Elettronica Pisana](https://www.wikidata.org/wiki/Q3650499?uselang=it#/media/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg) (view of the CEP ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))
 
-- foto cep
-- foto Tonina
-#### Foto codice 
-1. PER.LSDC - Routine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC))
+* Tonina's picture (to be found)
+
+* PER.LSDC.jpg
+     * Routine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC))
+
+
+--------------------
+da riordinare
 * **[PER.LSDC]()**
   * *Origin:* [Museo degli Strumenti per il Calcolo, Pisa](https://www.msc.sma.unipi.it/)
   * *Warehouse:* [MSC/SWHAP/CEP/Softi]()
@@ -19,7 +51,9 @@ posponed
   * *Collectors:* [Carlo Montangero]()
   * *Description:* Routine to punch data and code on paper tape, written in the Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)). 
   * *Notes:* 
+----------------
 
+more....
 
 
 ### Wikipedia article moment 
@@ -30,6 +64,8 @@ posponed
 
 ### People moment
 
+
+
 ### Wikidata statements moment
 
 ### Learn more moment
@@ -38,6 +74,9 @@ posponed
 https://dl.acm.org/doi/abs/10.5555/1659271.1659290>
 
 ### SWH source code moment
+
+--------------------
+da riordinare, da qui.
 
 This seemed simple and important: the link(s) to the Softi repository(ies). Just SWH, or also GitHub? Since the link in SWH works, it should be enough to updload the SWHID of a page in the archived repository.
 
