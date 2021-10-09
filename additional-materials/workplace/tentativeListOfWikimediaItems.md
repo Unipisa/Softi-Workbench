@@ -3,11 +3,15 @@
 
 Wikidata items to be created (to the best of my knowlegde) are identified as Q*xxx.
 
-In the statements, I use braces to pair the name and value of a property.
+In the statements, I use braces to pair the name and value of a property. The same for the fields of an uploaded image or video.
 
 ## Wikidata entities to be created for the Softi story
 
-Wikidata item: Q*1
+Category: 
+
+Question: 
+
+Item: Q*1
 * Label: Softi
 * Description: An early programming exercise in Numerical Analysis.
 * Statements
@@ -15,15 +19,16 @@ Wikidata item: Q*1
      * {creator: Tonina Starita(Q*2)}
      * {platform: CEP - Calcolatrice Elettronica Pisana (Q3650499)}
 
-Wikidata item: Q*2
+Item: Q*2
 * Label: Tonina Starita
 * Description: Italian computer scientist
 * Statements
-     * {name: value}
+     * {instanceof: human}
+     * {gender (P21): female}
 
 ## Images to be loaded to Wikimedia Commons for the Softi story
 
-They are in the SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons folder
+They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons 
 
 ## Use of the above
 
@@ -39,7 +44,10 @@ posponed
 * Tonina's picture (to be found)
 
 * PER.LSDC.jpg
-     * Routine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC))
+     * {Title: PER.LSDC}
+     * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
+     * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC))}
+     * {Categories:  }
 
 
 --------------------
