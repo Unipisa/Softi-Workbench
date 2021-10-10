@@ -14,6 +14,8 @@ Item: Q*1
      * {instanceof: software(Q7397)}
      * {creator: Tonina Starita(Q*2)}
      * {platform: CEP - Calcolatrice Elettronica Pisana (Q3650499)}
+     * {inception: 13/2/1968}
+     * {termination(?): 4/4/1968}
 
 Item: Q*2
 * Label: Tonina Starita
@@ -24,7 +26,7 @@ Item: Q*2
 
 ## Images to be loaded to Wikimedia Commons for the Softi story
 
-They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their proposedd metadata are listed in the "Use of the above section" below. 
+They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their respective proposedd metadata are listed in the "Use of the above section-" below. 
 
 ## Commons Categories to be created for the Softi story
 
@@ -54,7 +56,7 @@ posponed
      *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg)}
      * {Developer: Tonina Starita (Q*2)}
      * {Author: Carlo Montangero}
-     * {Categories: Softi }
+     * {Categories: Softi,...}
 
 
 * more....
@@ -62,6 +64,21 @@ posponed
 ### Wikipedia article moment 
 
 ### Timeline moment
+
+Here are the dates of the first and last versions of the codes:
+
+* PER: 13/2/68, 15/2/68 (hand written on the only printout)
+* LETT: 13/2/68, 21/3/68 (hand written on the only printout)
+* Exec: 5/3/68
+* Exec: 5/3/68 (with output)
+* Exec: 4/4/68
+* Exec: 29/3/68
+* Softi-1: no date
+* Softi-2: 13/2/68, 5/3/68
+* Softi-3: 9/3/68, 4/4/68
+
+Question: I used inception P571 to indicate the initial date of the time span of the creation of Softi. How do I enter the final date of the time span? Do we need a new property, say termination?
+Any other suggestion on how to express this tima span?
 
 ### Map moment
 
@@ -79,7 +96,7 @@ posponed
 * [Softi workbench](https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb)}
 
      * {Title: Softi workbench}
-     * {Description: This repository was used to reconstruct the software development story, and to prepare the materials for the SWH story. Also, from there it is possible to reach the repository with all the original materials.}
+     * {Description: This repository was used to reconstruct the development story of the code, and to prepare the materials for its SWH story. Also, from here it is possible to reach the repository with all the original materials.}
 
 ### SWH source code moment
 
@@ -90,4 +107,4 @@ Note: Since the links to the GitHub repository work correctly in SWH, it's conve
 
      * {Title: Reconstructed development story of the Softi source code.}
 
-Question: should I also add some direct link to the code files? May be those shown in the Media Gallery moment?
+Question: should we also add direct links to the code files shown in the Media Gallery moment?
