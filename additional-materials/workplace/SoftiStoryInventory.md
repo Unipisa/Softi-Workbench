@@ -1,15 +1,11 @@
-## Softi moments - a first attempt
+# Softi moments - a first attempt
 ### Conventions
 
 Wikidata items to be created (to the best of my knowlegde) are identified as Q*xxx.
 
-In the statements, I use braces to pair the name and value of a property. The same for the fields of an uploaded image or video.
+In the statements, I use braces to pair the name and value of a property. The same for the fields of an uploaded image or video, iFrames, etc.
 
 ## Wikidata entities to be created for the Softi story
-
-Category: 
-
-Question: 
 
 Item: Q*1
 * Label: Softi
@@ -28,41 +24,40 @@ Item: Q*2
 
 ## Images to be loaded to Wikimedia Commons for the Softi story
 
-They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons 
+They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their proposedd metadata are listed in the "Use of the above section" below. 
 
-## Use of the above
+## Commons Categories to be created for the Softi story
 
-In the following we look at how to use the above entities, images, etc., together with items already in Wikimdeia, in the moments of the Softi story.
+* Softi
+     * {Parent: Historical software with a SWH-story (new too)}
+
+## Proposed use of the above
+
+In the following we look at how to use the above entities, images, etc., together with other items already in Wikimedia, in the moments of the Softi story.
 
 ### The landing page
 
 posponed
 
 ### Media gallery moment 
-* [Vista della Calcolatrice Elettronica Pisana](https://www.wikidata.org/wiki/Q3650499?uselang=it#/media/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg) (view of the CEP ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))
+* https://www.wikidata.org/wiki/Q3650499?uselang=it#/media/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg
+     * {Title: View of the CEP}
+     * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
+     * {Description: This picture shows the computer for which the Softi source code was developed, as it has been saved in the Museum for Computing Machinery of the University of Pisa.}
 
 * Tonina's picture (to be found)
 
 * PER.LSDC.jpg
      * {Title: PER.LSDC}
      * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
-     * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC))}
-     * {Categories:  }
+     * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
+     *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg)}
+     * {Developer: Tonina Starita (Q*2)}
+     * {Author: Carlo Montangero}
+     * {Categories: Softi }
 
 
---------------------
-da riordinare
-* **[PER.LSDC]()**
-  * *Origin:* [Museo degli Strumenti per il Calcolo, Pisa](https://www.msc.sma.unipi.it/)
-  * *Warehouse:* [MSC/SWHAP/CEP/Softi]()
-  * *Authors:* [Antonina (Tonina) Starita]()
-  * *Collectors:* [Carlo Montangero]()
-  * *Description:* Routine to punch data and code on paper tape, written in the Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)). 
-  * *Notes:* 
-----------------
-
-more....
-
+* more....
 
 ### Wikipedia article moment 
 
@@ -72,36 +67,27 @@ more....
 
 ### People moment
 
-
-
 ### Wikidata statements moment
 
 ### Learn more moment
 
-[Proceedings of the 2009 conference on Computational Intelligence and Bioengineering: Essays in Memory of Antonina Starita]<https://dl.acm.org/doi/proceedings/10.5555/1659271#secAuthors
-https://dl.acm.org/doi/abs/10.5555/1659271.1659290>
+* [Proceedings of the 2009 conference on Computational Intelligence and Bioengineering: Essays in Memory of Antonina Starita](https://dl.acm.org/doi/proceedings/10.5555/1659271)
+
+     * {Title: Essays in Memory of Antonina Starita}
+     * {Description: The contributions in this volume portrait the achievements of the authoress of the code featured in this SWH story. Tonina developed it in 1968, when she was a young research apprentice in Pisa, at CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes paragraph [here].(https://www.isti.cnr.it/en/about))}
+
+* [Softi workbench](https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb)}
+
+     * {Title: Softi workbench}
+     * {Description: This repository was used to reconstruct the software development story, and to prepare the materials for the SWH story. Also, from there it is possible to reach the repository with all the original materials.}
 
 ### SWH source code moment
 
---------------------
-da riordinare, da qui.
+Note: Since the links to the GitHub repository work correctly in SWH, it's convenient to create iFrames with the SWHIDs of the pages in the archived repository.
 
-This seemed simple and important: the link(s) to the Softi repository(ies). Just SWH, or also GitHub? Since the link in SWH works, it should be enough to updload the SWHID of a page in the archived repository.
+* iFrame-1
+     * {Link: [Softi repository- source code branch](https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb)}
 
-It is better for the user that we show an iFrame with the SWHID of the _source branch_, where he can find the reconstructed source code. Here it is: 
+     * {Title: Reconstructed development story of the Softi source code.}
 
-https://archive.softwareheritage.org/swh:1:dir:14c89ab8cc01b36ba660d11853a3024cd8767fce;origin=https://github.com/Unipisa/Softi.git;visit=swh:1:snp:262a8a4fe2bc534e2e319feef8e28a2a80c874aa;anchor=swh:1:rev:56cac0e4fd60675ba54bed2f82be9e8460dca091
-
-Suggested caption:
-
-     Softi: Reconstructed story of the recovered source code.
-
-However, from there it is not obvious how to get to the page where the link to the workbench is (you need to switch to the master branch). So, better save also the link to the workbench, if available in SWH. For Softi, here it is:
-
-https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb
-
-Suggested caption:
-
-     Softi Workbench: Repository used to reconstruct the software story.
-
-@Kat Is this enough for you to generate the iFrame?
+Question: should I also add some direct link to the code files? May be those shown in the Media Gallery moment?
