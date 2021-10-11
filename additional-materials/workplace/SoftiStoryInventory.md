@@ -1,4 +1,9 @@
 # Softi moments - a first attempt
+
+*Disclaimer: Here is an incomplete proposal of items and related information to upload to Wikimedia for Softi. I am not sure I understand well enough how things work. So, please bear with me and send me comments, tips, etc. on how to keep on the right track.
+
+Here and there I have also put some of my doubts, in italic: You can find them searching for "Question".*
+
 ### Conventions
 
 Wikidata items to be created (to the best of my knowlegde) are identified as Q*xxx.
@@ -23,15 +28,18 @@ Item: Q*2
 * Statements
      * {instanceof: human}
      * {gender (P21): female}
+     * more...
 
 ## Images to be loaded to Wikimedia Commons for the Softi story
 
 They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their respective proposedd metadata are listed in the "Use of the above section-" below. 
 
 ## Commons Categories to be created for the Softi story
+* Historical software with a SWH-story
+     * {Parent: Historical software}
 
 * Softi
-     * {Parent: Historical software with a SWH-story (new too)}
+     * {Parent: Historical software with a SWH-story}
 
 ## Proposed use of the above
 
@@ -43,9 +51,14 @@ posponed
 
 ### Media gallery moment 
 * https://www.wikidata.org/wiki/Q3650499?uselang=it#/media/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg
-     * {Title: View of the CEP}
+     * {Title: View of the CEP - contemporary}
      * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
      * {Description: This picture shows the computer for which the Softi source code was developed, as it has been saved in the Museum for Computing Machinery of the University of Pisa.}
+
+* https://www.msc.sma.unipi.it/foto/#jp-carousel-3023
+     * {Title: View of the CEP - original}
+     * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
+     * {Description: This picture shows the computer for which the Softi source code was developed, as it was when SOfti was developed.}
 
 * Tonina's picture (to be found)
 
@@ -77,14 +90,33 @@ Here are the dates of the first and last versions of the codes:
 * Softi-2: 13/2/68, 5/3/68
 * Softi-3: 9/3/68, 4/4/68
 
-Question: I used inception P571 to indicate the initial date of the time span of the creation of Softi. How do I enter the final date of the time span? Do we need a new property, say termination?
-Any other suggestion on how to express this tima span?
+*Question: I used inception P571 to indicate the initial date of the time span of the creation of Softi. How do I enter the final date of the time span? Do we need a new property, say termination?
+Any other suggestion on how to express this time span?*
+
+*Question: we might also put here the dates of saving in SWH. Again, do we need a new property?*
 
 ### Map moment
+* MapOfItaly.jpg
+     * {Title: Italy}
+     * {Description: Country where Softi was developed and the authoress wsa born.}
+     * *Note: this is a placeholder, it needs to be decorated with the marks of the other places.*
+* https://upload.wikimedia.org/wikipedia/commons/4/43/Veduta_napoletana_001.JPG
+     * {Title: Naples, Italy}
+     * {Description: Tonina's birthplace.}
+* https://commons.wikimedia.org/wiki/File:The_Leaning_Tower_of_Pisa_SB.jpeg
+     * {Title: Pisa, Italy}
+     * {Description: Tonina's place of death.}
+* https://commons.wikimedia.org/wiki/File:Pisa_-_veduta_dall%27aereo_4.JPG
+     * {Title: Pisa, Italy}
+     * {Description: City where the software was developed.}
 
 ### People moment
+* Q*2
+
+*Question: should we put also Guido, Laura and myself as collectors and curators? Or it is too narcissitic?*
 
 ### Wikidata statements moment
+I guess this is done automatically.
 
 ### Learn more moment
 
@@ -107,4 +139,4 @@ Note: Since the links to the GitHub repository work correctly in SWH, it's conve
 
      * {Title: Reconstructed development story of the Softi source code.}
 
-Question: should we also add direct links to the code files shown in the Media Gallery moment?
+*Question: should we also add direct links to (some of) the code files shown in the Media Gallery moment?*
