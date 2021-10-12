@@ -32,7 +32,7 @@ Item: Q*2
 
 ## Images to be loaded to Wikimedia Commons for the Softi story
 
-They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their respective proposedd metadata are listed in the "Use of the above section-" below. 
+They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their respective proposed metadata are listed in the "Use of the above section-" below. 
 
 ## Commons Categories to be created for the Softi story
 * Historical software with a SWH-story
@@ -70,6 +70,25 @@ posponed
      * {Developer: Tonina Starita (Q*2)}
      * {Author: Carlo Montangero}
      * {Categories: Softi,...}
+
+LETT.LSDC.jpg
+     * {Title: LETT.LSDC}
+     * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
+     * {Description: Subroutine to read data and code from paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
+     *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg)}
+     * {Developer: Tonina Starita (Q*2)}
+     * {Author: Carlo Montangero}
+     * {Categories: Softi,...}
+
+ExecutionOutput19680404.jpg
+     * {Title: ExecutionOutput19680404}
+     * {Caption: Trace of an attempt to execute Softi}
+     * {Description: This is the trace of an attempt to execute Softi. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
+     *{Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg)}
+     * {Developer: Tonina Starita (Q*2)}
+     * {Author: Carlo Montangero}
+     * {Categories: Softi,...}
+
 
 
 * more....
