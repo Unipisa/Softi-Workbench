@@ -84,7 +84,7 @@ ExecutionOutput19680404.jpg
      * {Title: ExecutionOutput19680404}
      * {Caption: Trace of an attempt to execute Softi}
      * {Description: This is the trace of an attempt to execute Softi. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
-     *{Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg)}
+     *{Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
      * {Developer: Tonina Starita (Q*2)}
      * {Author: Carlo Montangero}
      * {Categories: Softi,...}
