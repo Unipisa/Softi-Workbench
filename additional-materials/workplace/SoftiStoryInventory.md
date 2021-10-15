@@ -40,6 +40,7 @@ They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their re
 
 * Softi
      * {Parent: Historical software with a SWH-story}
+     * {}
 
 ## Proposed use of the above
 
@@ -58,7 +59,7 @@ posponed
 * https://www.msc.sma.unipi.it/foto/#jp-carousel-3023
      * {Title: View of the CEP - original}
      * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
-     * {Description: This picture shows the computer for which the Softi source code was developed, as it was when SOfti was developed.}
+     * {Description: This picture shows the computer for which the Softi source code was developed, as it was when Softi was developed.}
 
 * Tonina's picture (to be found)
 
@@ -71,7 +72,7 @@ posponed
      * {Author: Carlo Montangero}
      * {Categories: Softi,...}
 
-LETT.LSDC.jpg
+* LETT.LSDC.jpg
      * {Title: LETT.LSDC}
      * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
      * {Description: Subroutine to read data and code from paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
@@ -80,20 +81,47 @@ LETT.LSDC.jpg
      * {Author: Carlo Montangero}
      * {Categories: Softi,...}
 
-ExecutionOutput19680404.jpg
+* ExecutionOutput19680404.jpg
      * {Title: ExecutionOutput19680404}
      * {Caption: Trace of an attempt to execute Softi}
      * {Description: This is the trace of an attempt to execute Softi. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
-     *{Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
+     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
      * {Developer: Tonina Starita (Q*2)}
      * {Author: Carlo Montangero}
      * {Categories: Softi,...}
 
+* Softi-V1.f.jpg
+     * {Title: Softi-V1.f}
+     * {Caption: Main Softi FORTRAN program -V1}
+     * {Description: This is the handwritten first version of the Softi main program.}
+     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V1.f.jpg)}
+     * {Developer: Tonina Starita (Q*2)}
+     * {Author: Carlo Montangero}
+     * {Categories: Softi,...}
 
+* Softi-V2-3.f.jpg
+     * {Title: Softi-V2-3.f}
+     * {Caption: Main Softi FORTRAN program - V2 & V3}
+     * {Description: These are version two (printed) and third (handwritten) of the Softi main program.}
+     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V2-3.f.jpg)}
+     * {Developer: Tonina Starita (Q*2)}
+     * {Author: Carlo Montangero}
+     * {Categories: Softi,...}
 
-* more....
+* Softi-V4.f.jpg
+     * {Title: Softi-V4.f}
+     * {Caption: Main Softi FORTRAN program - V4}
+     * {Description: This is the fourth version of the Softi main program, with art work of the programmer.}
+     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V4.f.jpg)}
+     * {Developer: Tonina Starita (Q*2)}
+     * {Author: Carlo Montangero}
+     * {Categories: Softi,...}
 
-### Wikipedia article moment 
+* more?
+
+### Wikipedia article moment
+
+NA
 
 ### Timeline moment
 
@@ -112,7 +140,7 @@ Here are the dates of the first and last versions of the codes:
 *Question: I used inception P571 to indicate the initial date of the time span of the creation of Softi. How do I enter the final date of the time span? Do we need a new property, say termination?
 Any other suggestion on how to express this time span?*
 
-*Question: we might also put here the dates of saving in SWH. Again, do we need a new property?*
+*Question: we might also put here the dates when they were saved in SWH. Again, do we need a new property?*
 
 ### Map moment
 * MapOfItaly.jpg
@@ -132,7 +160,7 @@ Any other suggestion on how to express this time span?*
 ### People moment
 * Q*2
 
-*Question: should we put also Guido, Laura and myself as collectors and curators? Or it is too narcissitic?*
+*Question: should we put also Guido, Laura and myself as collectors and curators? Or it is too narcissitic? (Guido says no)*
 
 ### Wikidata statements moment
 I guess this is done automatically.
