@@ -69,7 +69,8 @@ posponed
      * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
      *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg)}
      * {Developer: Tonina Starita (Q*2)}
-     * {Author: Carlo Montangero}
+     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi,...}
 
 * LETT.LSDC.jpg
@@ -78,16 +79,18 @@ posponed
      * {Description: Subroutine to read data and code from paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
      *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg)}
      * {Developer: Tonina Starita (Q*2)}
-     * {Author: Carlo Montangero}
+     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi,...}
 
 * Softi-V1.f.jpg
      * {Title: Softi-V1.f}
-     * {Caption: Main Softi FORTRAN program -V1}
+     * {Caption: Main Softi FORTRAN program - V1}
      * {Description: This is the handwritten first version of the Softi main program.}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V1.f.jpg)}
      * {Developer: Tonina Starita (Q*2)}
-     * {Author: Carlo Montangero}
+     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi,...}
 
 * Softi-V2-3.f.jpg
@@ -96,7 +99,8 @@ posponed
      * {Description: These are version two (printed) and third (handwritten) of the Softi main program.}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V2-3.f.jpg)}
      * {Developer: Tonina Starita (Q*2)}
-     * {Author: Carlo Montangero}
+     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi,...}
 
 * Softi-V4.f.jpg
@@ -105,16 +109,18 @@ posponed
      * {Description: This is the fourth version of the Softi main program, with art work of the programmer.}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V4.f.jpg)}
      * {Developer: Tonina Starita (Q*2)}
-     * {Author: Carlo Montangero}
+     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi,...}
 
 * LoadingTrace.PDT.jpg
      * {Title: LoadingTrace.PDT}
      * {Caption: Loading trace to execute Softi}
-     * {Description: This is the trace of the loading process needed to execute Softi.}
-     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
+     * {Description: This is the trace of the loading process needed to execute Softi, dated 29/3/1968.}
+     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/LoadingTrace.PDT.jpg)}
      * {Developer: Tonina Starita (Q*2)}
-     * {Author: Carlo Montangero}
+     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi,...}
 
 * ExecutionOutput19680404.jpg
@@ -123,7 +129,8 @@ posponed
      * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
      * {Developer: Tonina Starita (Q*2)}
-     * {Author: Carlo Montangero}
+     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi,...}
 
 * more? At least a PDT...
