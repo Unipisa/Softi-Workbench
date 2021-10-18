@@ -81,15 +81,6 @@ posponed
      * {Author: Carlo Montangero}
      * {Categories: Softi,...}
 
-* ExecutionOutput19680404.jpg
-     * {Title: ExecutionOutput19680404}
-     * {Caption: Trace of an attempt to execute Softi}
-     * {Description: This is the trace of an attempt to execute Softi. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
-     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
-     * {Developer: Tonina Starita (Q*2)}
-     * {Author: Carlo Montangero}
-     * {Categories: Softi,...}
-
 * Softi-V1.f.jpg
      * {Title: Softi-V1.f}
      * {Caption: Main Softi FORTRAN program -V1}
@@ -117,7 +108,25 @@ posponed
      * {Author: Carlo Montangero}
      * {Categories: Softi,...}
 
-* more?
+* LoadingTrace.PDT.jpg
+     * {Title: LoadingTrace.PDT}
+     * {Caption: Loading trace to execute Softi}
+     * {Description: This is the trace of the loading process needed to execute Softi.}
+     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
+     * {Developer: Tonina Starita (Q*2)}
+     * {Author: Carlo Montangero}
+     * {Categories: Softi,...}
+
+* ExecutionOutput19680404.jpg
+     * {Title: ExecutionOutput}
+     * {Caption: Trace of an attempt to execute Softi}
+     * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
+     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
+     * {Developer: Tonina Starita (Q*2)}
+     * {Author: Carlo Montangero}
+     * {Categories: Softi,...}
+
+* more? At least a PDT...
 
 ### Wikipedia article moment
 
