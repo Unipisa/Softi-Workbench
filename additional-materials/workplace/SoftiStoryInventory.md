@@ -159,10 +159,7 @@ Any other suggestion on how to express this time span?*
 *Question: we might also put here the dates when they were saved in SWH. Again, do we need a new property?*
 
 ### Map moment
-* MapOfItaly.jpg
-     * {Title: Italy}
-     * {Description: Country where Softi was developed and the authoress wsa born.}
-     * *Note: this is a placeholder, it needs to be decorated with the marks of the other places.*
+
 * https://upload.wikimedia.org/wikipedia/commons/4/43/Veduta_napoletana_001.JPG
      * {Title: Naples, Italy}
      * {Description: Tonina's birthplace.}
@@ -191,7 +188,7 @@ I guess this is done automatically.
 * [Softi workbench](https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb)}
 
      * {Title: Softi workbench}
-     * {Description: This repository was used to reconstruct the development story of the code, and to prepare the materials for its SWH story. Also, from here it is possible to reach the repository with all the original materials.}
+     * {Description: This repository was used to reconstruct the development story of the code, and to prepare the materials for its SWH story. Also, from here it is possible to reach the *depository* with all the original digital materials.}
 
 ### SWH source code moment
 
