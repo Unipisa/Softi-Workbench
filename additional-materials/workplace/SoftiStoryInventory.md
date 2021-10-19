@@ -61,7 +61,15 @@ posponed
      * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
      * {Description: This picture shows the computer for which the Softi source code was developed, as it was when Softi was developed.}
 
-* Tonina's picture (to be found)
+* ToninaStarita.png
+     * {Title:ToninaStarita.png}
+     * {Caption: Antonina (Tonina) Starita ([Q*2](https://www.wikidata.org/wiki/Qxxxxxxx))}
+     * {Description: 
+     *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
+     * {Author: ??????}
+     * {Decimal Coordinates: 43.716528, 10.390481}
+     * {Categories: Softi,...}
+
 
 * PER.LSDC.jpg
      * {Title: PER.LSDC}
