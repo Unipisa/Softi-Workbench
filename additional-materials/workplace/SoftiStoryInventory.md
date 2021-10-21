@@ -12,17 +12,19 @@ In the statements, I use braces to pair the name and value of a property. The sa
 
 ## Wikidata entities to be created for the Softi story
 
-Item: Q*1
+## Wikidata entities created for the Softi story
+
+Item: Q108929297
 * Label: Softi
 * Description: An early programming exercise in Numerical Analysis.
 * Statements
      * {instanceof: software(Q7397)}
-     * {creator: Tonina Starita(Q*2)}
+     * {creator: Tonina Starita(Q108929353)}
      * {platform: CEP - Calcolatrice Elettronica Pisana (Q3650499)}
      * {inception: 13/2/1968}
      * {termination(?): 4/4/1968}
 
-Item: Q*2
+Item: Q108929353
 * Label: Tonina Starita
 * Description: Italian computer scientist
 * Statements
@@ -32,7 +34,7 @@ Item: Q*2
 
 ## Images to be loaded to Wikimedia Commons for the Softi story
 
-They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their respective proposed metadata are listed in the "Use of the above section-" below. 
+They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their respective proposed metadata are listed in the "Use of the above" section, below. 
 
 ## Commons Categories to be created for the Softi story
 * Historical software with a SWH-story
@@ -56,19 +58,21 @@ posponed
      * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
      * {Description: This picture shows the computer for which the Softi source code was developed, as it has been saved in the Museum for Computing Machinery of the University of Pisa.}
 
-* https://www.msc.sma.unipi.it/foto/#jp-carousel-3023
+* cep04.CEP_.jpg 
      * {Title: View of the CEP - original}
-     * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
-     * {Description: This picture shows the computer for which the Softi source code was developed, as it was when Softi was developed.}
+     * {Caption: view of the Calcolatrice Elettronica Pisana - CEP, in the sixties.}
+     * {Description: This picture shows the computer for which the Softi source code was developed, as it was in the sixties, when the code was written.}
+     * {Date: 21/10/2021} 
+     * {source: https://www.msc.sma.unipi.it/foto/#jp-carousel-3023}
 
 * ToninaStarita.png
      * {Title:ToninaStarita.png}
-     * {Caption: Antonina (Tonina) Starita ([Q*2](https://www.wikidata.org/wiki/Qxxxxxxx))}
+     * {Caption: Antonina (Tonina) Starita ([Q108929353](https://www.wikidata.org/wiki/Qxxxxxxx))}
      * {Description: 
      *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
      * {Author: ??????}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi,...}
+     * {Categories: Softi source code...}
 
 
 * PER.LSDC.jpg
@@ -76,72 +80,72 @@ posponed
      * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
      * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
      *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg)}
-     * {Developer: Tonina Starita (Q*2)}
-     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Developer: Tonina Starita (Q108929353)}
+     * {Author: MuntDlaGera (Carlo Montangero)}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi,...}
+     * {Categories: Softi source code...}
 
 * LETT.LSDC.jpg
      * {Title: LETT.LSDC}
      * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
      * {Description: Subroutine to read data and code from paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
      *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg)}
-     * {Developer: Tonina Starita (Q*2)}
-     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Developer: Tonina Starita (Q108929353)}
+     * {Author: MuntDlaGera (Carlo Montangero)}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi,...}
+     * {Categories: Softi source code...}
 
 * Softi-V1.f.jpg
      * {Title: Softi-V1.f}
      * {Caption: Main Softi FORTRAN program - V1}
      * {Description: This is the handwritten first version of the Softi main program.}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V1.f.jpg)}
-     * {Developer: Tonina Starita (Q*2)}
-     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Developer: Tonina Starita (Q108929353)}
+     * {Author: MuntDlaGera (Carlo Montangero)}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi,...}
+     * {Categories: Softi source code...}
 
 * Softi-V2-3.f.jpg
      * {Title: Softi-V2-3.f}
      * {Caption: Main Softi FORTRAN program - V2 & V3}
      * {Description: These are version two (printed) and third (handwritten) of the Softi main program.}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V2-3.f.jpg)}
-     * {Developer: Tonina Starita (Q*2)}
-     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Developer: Tonina Starita (Q108929353)}
+     * {Author: MuntDlaGera (Carlo Montangero)}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi,...}
+     * {Categories: Softi source code...}
 
 * Softi-V4.f.jpg
      * {Title: Softi-V4.f}
      * {Caption: Main Softi FORTRAN program - V4}
      * {Description: This is the fourth version of the Softi main program, with art work of the programmer.}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V4.f.jpg)}
-     * {Developer: Tonina Starita (Q*2)}
-     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Developer: Tonina Starita (Q108929353)}
+     * {Author: MuntDlaGera (Carlo Montangero)}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi,...}
+     * {Categories: Softi source code...}
 
 * LoadingTrace.PDT.jpg
      * {Title: LoadingTrace.PDT}
      * {Caption: Loading trace to execute Softi}
-     * {Description: This is the trace of the loading process needed to execute Softi, dated 29/3/1968.}
+     * {Description: This is the trace of the loading process needed to execute Softi source code dated 29/3/1968.}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/LoadingTrace.PDT.jpg)}
-     * {Developer: Tonina Starita (Q*2)}
-     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Developer: Tonina Starita (Q108929353)}
+     * {Author: MuntDlaGera (Carlo Montangero)}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi,...}
+     * {Categories: Softi source code...}
 
 * ExecutionOutput19680404.jpg
      * {Title: ExecutionOutput}
      * {Caption: Trace of an attempt to execute Softi}
      * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
-     * {Developer: Tonina Starita (Q*2)}
-     * {Author: MuntDLaGera (Carlo Montangero)}
+     * {Developer: Tonina Starita (Q108929353)}
+     * {Author: MuntDlaGera (Carlo Montangero)}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi,...}
+     * {Categories: Softi source code...}
 
-* more? At least a PDT...
+* more? 
 
 ### Wikipedia article moment
 
@@ -179,7 +183,7 @@ Any other suggestion on how to express this time span?*
      * {Description: City where the software was developed.}
 
 ### People moment
-* Q*2
+* Q108929353
 
 *Question: should we put also Guido, Laura and myself as collectors and curators? Or it is too narcissitic? (Guido says no)*
 
