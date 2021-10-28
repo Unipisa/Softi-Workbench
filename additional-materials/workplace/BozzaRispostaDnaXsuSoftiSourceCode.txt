@@ -1,0 +1,12 @@
+
+
+==Categorizzazione di un'immagine della CEP==
+* Si riferisce a <ref>[https://commons.wikimedia.org/wiki/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg questa immagine] </ref> della CEP.
+
+Ho visto le modifiche alla mia categorizzazione dell'immagine, e alla categoria (da me creata) <ref>[https://commons.wikimedia.org/wiki/Category:Softi_source_code Softi source code] </ref>.
+
+La ragione del mio intervento è legata a un progetto cui collaboro, volto a valorizzare il codice conservato in <ref>[https://commons.wikimedia.org/wiki/Category:Softi_source_code Software Heritage] </ref> e raccolto <ref>[https://github.com/Unipisa/Softi-Workbench qui] </ref>.
+
+Con i colleghi abbiamo valutato la sua modifica, e concordato che la categoria da me proposta per l'immagine non è adatta. D'altra parte, siamo alla ricerca di un metodo per selezionare alcune immagini pertinenti alla storia del codice. Ne discuteremo in una prossima riunione con colleghi d'oltre oceano, vecchi lupi di Wikimedia, ma per il momento credo di aver trovato una soluzione per permetterci di procedere comunque, in attesa del loro parere: ho aggiunto anche la mia categoria all'immagine.   
+
+--~~~~
