@@ -68,9 +68,9 @@ posponed
 * ToninaStarita.png
      * {Title:ToninaStarita.png}
      * {Caption: Antonina (Tonina) Starita ([Q108929353](https://www.wikidata.org/wiki/Qxxxxxxx))}
-     * {Description: 
-     *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
-     * {Author: ??????}
+     * {Description: {{en|1=Starita was was an Italian computer scientist, active in Pisa since the sixties, when she was with CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes [https://www.isti.cnr.it/en/about here]). She then became professor at the Computer Science Department of the University of Pisa. Her contributions to Computer Science were in Computational Intelligence and Bioengineering. Her seminal activity continues at the [http://www.di.unipi.it/groups/ciml Computational Intelligence & Machine Learning Group] and the [http://www.neurolab.ing.unirc.it/ Neurolab] she contributed to found.}} }
+     *{Reference: [Softi Worbench](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
+     * {Author: {{Author|Unknown}} {{Author|upload|MuntDlaGera}}}
      * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi source code...}
 
@@ -81,7 +81,7 @@ posponed
      * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
      *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg)}
      * {Developer: Tonina Starita (Q108929353)}
-     * {Author: MuntDlaGera (Carlo Montangero)}
+     * {Author: {{Author|photo|MuntDlaGera}}}
      * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi source code...}
 
