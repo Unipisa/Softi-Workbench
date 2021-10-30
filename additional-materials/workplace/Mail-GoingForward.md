@@ -21,15 +21,14 @@ Temporary, abridged workflow for Softi & CMM
 1. The curator creates a workbench repository using the SWH template (part of the SWHAP workflow).
 2. The curator uploads files into the pretinent folder in the -WORKBENCH/additional-materials/workplace directory.
 {3. The curator adds metadata for the software in the form of a codemeta.json file.}
-3. The curator adds pairs {key: metadata} for the software in the form of an inventory.md file (cfr Softi). The codemeta file will be prepared after teh info has been verified.
+3. The curator adds pairs {key: metadata} for the software in the form of an inventory.md file (cfr Softi). The codemeta file will be prepared after the info has been verified.
 4. The curator searches Wikidata to see if an item for the software title exists.
 5. If no item is found, the curator creates a new item.
 6. The curator adds statements to the Wikidata item based on the {codemeta.json file as well as any other available information} using properties related to software.
 7. The curator uploads images related to the software to Wikimedia Commons.
 8. If there is only one image, the curator visits the Wikidata item for the software title and uses P18 to connect the image to the Wikidata item.
-11
 9. If there are multiple images, the curator creates a category for the software title in
-Wikimedia Commons and the returns to Wikidata and uses P373 to connect the
+Wikimedia Commons and then returns to Wikidata and uses P373 to connect the
 category to the Wikidata item.
 {10. If there are images of files that were created with the software title, the curator creates a category in Wikimedia commons for files created with the software title.
 The curator then returns to Wikidata and uses P7861 to connect the category for

@@ -64,12 +64,13 @@ posponed
      * {Description: This picture shows the computer for which the Softi source code was developed, as it was in the sixties, when the code was written.}
      * {Date: 21/10/2021} 
      * {source: https://www.msc.sma.unipi.it/foto/#jp-carousel-3023}
+     *Current location in Commons: https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg 
 
 * ToninaStarita.png
      * {Title:ToninaStarita.png}
      * {Caption: Antonina (Tonina) Starita ([Q108929353](https://www.wikidata.org/wiki/Qxxxxxxx))}
      * {Description: {{en|1=Starita was was an Italian computer scientist, active in Pisa since the sixties, when she was with CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes [https://www.isti.cnr.it/en/about here]). She then became professor at the Computer Science Department of the University of Pisa. Her contributions to Computer Science were in Computational Intelligence and Bioengineering. Her seminal activity continues at the [http://www.di.unipi.it/groups/ciml Computational Intelligence & Machine Learning Group] and the [http://www.neurolab.ing.unirc.it/ Neurolab] she contributed to found.}} }
-     *{Reference: [Softi Worbench](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
+     * {Reference: [Softi Worbench](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
      * {Author: {{Author|Unknown}} {{Author|upload|MuntDlaGera}}}
      * {Decimal Coordinates: 43.716528, 10.390481}
      * {Categories: Softi source code...}
@@ -79,21 +80,21 @@ posponed
      * {Title: PER.LSDC}
      * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
      * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
-     *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg)}
+     * {Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg)}
      * {Developer: Tonina Starita (Q108929353)}
      * {Author: {{Author|photo|MuntDlaGera}}}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...}
+     * {Categories: Softi source code}
 
 * LETT.LSDC.jpg
      * {Title: LETT.LSDC}
-     * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
-     * {Description: Subroutine to read data and code from paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
-     *{Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg)}
+     * {Caption: Symbolic language code for the Calcolatrice Elettronica Pisana (Q3650499) }
+     * {Description: {{en|1=This is the printout of a subroutine to read data and code from paper tape, written in the Decimal Symbolic Language for the [https://www.wikidata.org/wiki/Q3650499 CEP (Q3650499)] (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)). It is part of [https://www.wikidata.org/wiki/Q108929297 Softi (Q108929297)], an early exercise in Numerical Analysis.}} }
+     * {Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg)}
      * {Developer: Tonina Starita (Q108929353)}
      * {Author: MuntDlaGera (Carlo Montangero)}
      * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...}
+     * {Categories: Softi source code...} 
 
 * Softi-V1.f.jpg
      * {Title: Softi-V1.f}
@@ -127,8 +128,8 @@ posponed
 
 * LoadingTrace.PDT.jpg
      * {Title: LoadingTrace.PDT}
-     * {Caption: Loading trace to execute Softi}
-     * {Description: This is the trace of the loading process needed to execute Softi source code dated 29/3/1968.}
+     * {Caption: Loading commands to execute Softi (Q108929297) on the CEP (Q3650499)}
+     * {Description: This is the trace of the loading process needed to execute the Softi source code on 29/3/1968.}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/LoadingTrace.PDT.jpg)}
      * {Developer: Tonina Starita (Q108929353)}
      * {Author: MuntDlaGera (Carlo Montangero)}
