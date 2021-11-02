@@ -53,21 +53,6 @@ In the following we look at how to use the above entities, images, etc., togethe
 posponed
 
 ### Media gallery moment 
-* https://www.wikidata.org/wiki/Q3650499?uselang=it#/media/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg
-     * {Title: View of the CEP - contemporary}
-     * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
-     * {Description: This picture shows the computer for which the Softi source code was developed, as it has been saved in the Museum for Computing Machinery of the University of Pisa.}
-
-* cep04.CEP_.jpg 
-     * {Title: View of the CEP - original}
-     * {Caption: view of the Calcolatrice Elettronica Pisana - CEP, in the sixties.}
-     * {Description: This picture shows the computer for which the Softi source code was developed, as it was in the sixties, when the code was written.}
-     * {Date: 21/10/2021} 
-     * {source: https://www.msc.sma.unipi.it/foto/#jp-carousel-3023}
-     *Current location in Commons: https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg 
-
-
-
 
 * PER.LSDC.jpg
      * {Title: PER.LSDC}
@@ -213,3 +198,24 @@ Note: Since the links to the GitHub repository work correctly in SWH, it's conve
      * {Title: Reconstructed development story of the Softi source code.}
 
 *Question: should we also add direct links to (some of) the code files shown in the Media Gallery moment?*
+
+### Learn more moment
+
+#### About the CEP
+
+* https://www.wikidata.org/wiki/Q3650499?uselang=it#/media/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg
+     * {Title: View of the CEP - contemporary}
+     * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
+     * {Description: This picture shows the computer for which the Softi source code was developed, as it has been saved in the Museum for Computing Machinery of the University of Pisa.}
+
+* cep04.CEP_.jpg 
+     * {Title: View of the CEP - original}
+     * {Caption: view of the Calcolatrice Elettronica Pisana - CEP, in the sixties.}
+     * {Description: This picture shows the computer for which the Softi source code was developed, as it was in the sixties, when the code was written.}
+     * {Date: 21/10/2021} 
+     * {source: https://www.msc.sma.unipi.it/foto/#jp-carousel-3023}
+     * Current location in Commons: https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg 
+
+
+
+
