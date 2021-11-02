@@ -66,14 +66,7 @@ posponed
      * {source: https://www.msc.sma.unipi.it/foto/#jp-carousel-3023}
      *Current location in Commons: https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg 
 
-* ToninaStarita.png
-     * {Title:ToninaStarita.png}
-     * {Caption: Antonina (Tonina) Starita ([Q108929353](https://www.wikidata.org/wiki/Qxxxxxxx))}
-     * {Description: {{en|1=Starita was was an Italian computer scientist, active in Pisa since the sixties, when she was with CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes [https://www.isti.cnr.it/en/about here]). She then became professor at the Computer Science Department of the University of Pisa. Her contributions to Computer Science were in Computational Intelligence and Bioengineering. Her seminal activity continues at the [http://www.di.unipi.it/groups/ciml Computational Intelligence & Machine Learning Group] and the [http://www.neurolab.ing.unirc.it/ Neurolab] she contributed to found.}} }
-     * {Reference: [Softi Worbench](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
-     * {Author: {{Author|Unknown}} {{Author|upload|MuntDlaGera}}}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...}
+
 
 
 * PER.LSDC.jpg
@@ -137,7 +130,7 @@ posponed
      * {Categories: Softi source code...}
 
 * ExecutionOutput19680404.jpg
-     * {Title: ExecutionOutput}
+     * {Title: Softi Execution Trace}
      * {Caption: Trace of an attempt to execute Softi}
      * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
      * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
@@ -166,8 +159,7 @@ Here are the dates of the first and last versions of the codes:
 * Softi-2: 13/2/68, 5/3/68
 * Softi-3: 9/3/68, 4/4/68
 
-*Question: I used inception P571 to indicate the initial date of the time span of the creation of Softi. How do I enter the final date of the time span? Do we need a new property, say termination?
-Any other suggestion on how to express this time span?*
+*Question: I used inception P571 to indicate the initial date of the time span of the creation of Softi. How do I enter the final date of the time span? I see that Kat has used P2669 discontinued date). I'm afraid both properties do not convey the intended meaning, that is the time span covered by our findings, which is likely shorter than the time span of the project.*
 
 *Question: we might also put here the dates when they were saved in SWH. Again, do we need a new property?*
 
@@ -185,8 +177,16 @@ Any other suggestion on how to express this time span?*
 
 ### People moment
 * Q108929353
+* ToninaStarita.png
+     * {Title:ToninaStarita.png}
+     * {Caption: Antonina (Tonina) Starita ([Q108929353](https://www.wikidata.org/wiki/Qxxxxxxx))}
+     * {Description: {{en|1=Starita was was an Italian computer scientist, active in Pisa since the sixties, when she was with CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes [https://www.isti.cnr.it/en/about here]). She then became professor at the Computer Science Department of the University of Pisa. Her contributions to Computer Science were in Computational Intelligence and Bioengineering. Her seminal activity continues at the [http://www.di.unipi.it/groups/ciml Computational Intelligence & Machine Learning Group] and the [http://www.neurolab.ing.unirc.it/ Neurolab] she contributed to found.}} }
+     * {Reference: [Softi Worbench](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
+     * {Author: {{Author|Unknown}} {{Author|upload|MuntDlaGera}}}
+     * {Decimal Coordinates: 43.716528, 10.390481}
+     * {Categories: Softi source code...}
 
-*Question: should we put also Guido, Laura and myself as collectors and curators? Or it is too narcissitic? (Guido says no)*
+*Question: should we put also Guido, Laura and myself as collectors and curators? Or it is too narcissitic? (Guido says no - Having got a better understanding I think not)*
 
 ### Wikidata statements moment
 I guess this is done automatically.
