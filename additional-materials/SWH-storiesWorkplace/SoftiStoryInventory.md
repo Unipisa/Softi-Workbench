@@ -217,7 +217,7 @@ Note: Since the links to the GitHub repository work correctly in SWH, it's conve
 * [Proceedings of the 2009 conference on Computational Intelligence and Bioengineering: Essays in Memory of Antonina Starita](https://dl.acm.org/doi/proceedings/10.5555/1659271)
 
      * {Title: Essays in Memory of Antonina Starita}
-     * {Description: The contributions in this volume portrait the achievements of the authoress of the code featured in this SWH story. Tonina developed it in 1968, when she was a young research apprentice in Pisa, at CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes paragraph [here].(https://www.isti.cnr.it/en/about))}
+     * {Description: The contributions in this volume portrait the achievements of the authoress of the code featured in this SWH story. Tonina developed it in 1968, when she was a young research apprentice in Pisa, at CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes paragraph [here https://www.isti.cnr.it/en/about])}
 
 
 #### More on the recovery process
@@ -227,5 +227,3 @@ Note: Since the links to the GitHub repository work correctly in SWH, it's conve
      * {Title: Softi workbench}
      * {Description: This repository was used to reconstruct the development story of the code, and to prepare the materials for its SWH story. Also, from here it is possible to reach the *depository* with all the original digital materials.}
 
-
-     * Current location in Commons: https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg 
