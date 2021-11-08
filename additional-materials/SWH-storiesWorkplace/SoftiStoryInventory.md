@@ -188,8 +188,6 @@ Note: Since the links to the GitHub repository work correctly in SWH, it's conve
 
 *Question: should we also add direct links to (some of) the code files shown in the Media Gallery moment?*
 
-### Learn more moment
-
 #### About the CEP
 
 * https://www.wikidata.org/wiki/Q3650499?uselang=it#/media/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg
@@ -230,3 +228,4 @@ Note: Since the links to the GitHub repository work correctly in SWH, it's conve
      * {Description: This repository was used to reconstruct the development story of the code, and to prepare the materials for its SWH story. Also, from here it is possible to reach the *depository* with all the original digital materials.}
 
 
+     * Current location in Commons: https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg 
