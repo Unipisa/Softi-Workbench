@@ -1,20 +1,20 @@
-# Softi moments - a first attempt
+# Story moments - a first attempt (revised)
 
-*Disclaimer: Here is an incomplete proposal of items and related information to upload to Wikimedia for Softi. I am not sure I understand well enough how things work. So, please bear with me and send me comments, tips, etc. on how to keep on the right track.
+### Major changes
 
-Here and there I have also put some of my doubts, in italic: You can find them searching for "Question".*
+
 
 ### Conventions
 
-Wikidata items to be created (to the best of my knowlegde) are identified as Q*xxx.
+Wikidata items to be created are identified as Q*xxx, for later reference inside this document. Once created, all references should be replaced with the actual Qid.
 
-In the statements, I use braces to pair the name and value of a property. The same for the fields of an uploaded image or video, iFrames, etc.
+In the statements, braces are used to pair the name-Pid and value of a property. The same holds for the fields of an uploaded image or video, iFrames, etc.
 
-## Wikidata entities to be created for the Softi story
 
-## Wikidata entities created for the Softi story
 
-Item: Q108929297
+## Wikidata entities for the story
+
+SoftwareItem: Q108929297
 * Label: Softi
 * Description: An early programming exercise in Numerical Analysis.
 * Statements
@@ -22,9 +22,9 @@ Item: Q108929297
      * {creator: Tonina Starita(Q108929353)}
      * {platform: CEP - Calcolatrice Elettronica Pisana (Q3650499)}
      * {inception: 13/2/1968}
-     * {termination(?): 4/4/1968}
+     * {end-time (P582): 4/4/1968}
 
-Item: Q108929353
+CreatorItem: Q108929353
 * Label: Tonina Starita
 * Description: Italian computer scientist
 * Statements
@@ -176,17 +176,6 @@ Here are the dates of the first and last versions of the codes:
 ### Wikidata statements moment
 I guess this is done automatically.
 
-### Learn more moment
-
-* [Proceedings of the 2009 conference on Computational Intelligence and Bioengineering: Essays in Memory of Antonina Starita](https://dl.acm.org/doi/proceedings/10.5555/1659271)
-
-     * {Title: Essays in Memory of Antonina Starita}
-     * {Description: The contributions in this volume portrait the achievements of the authoress of the code featured in this SWH story. Tonina developed it in 1968, when she was a young research apprentice in Pisa, at CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes paragraph [here].(https://www.isti.cnr.it/en/about))}
-
-* [Softi workbench](https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb)}
-
-     * {Title: Softi workbench}
-     * {Description: This repository was used to reconstruct the development story of the code, and to prepare the materials for its SWH story. Also, from here it is possible to reach the *depository* with all the original digital materials.}
 
 ### SWH source code moment
 
@@ -216,6 +205,28 @@ Note: Since the links to the GitHub repository work correctly in SWH, it's conve
      * {source: https://www.msc.sma.unipi.it/foto/#jp-carousel-3023}
      * Current location in Commons: https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg 
 
+#### More on FORTRAN CEP
 
+* CACM 1964 Paper on FORTRAN CEP
+     * {Logo: additional-materials\SWH-storiesWorkplace\ACMdigitalLibrayLogo.jpg}
+     * {Title: Paper on the FORTRAN CEP language.}
+     * {Description: O. G. Mancino. Characteristics of the FORTRAN CEP language.  <i>Commun. ACM</i> 7, 7 (July 1964), 423–424. 
+     The paper describes the enhancements over FORTRAN II, mainly devoted to the input/output of quantities of type Real and the allowed input/output equipments.}
+     * {LearnMoreButton: DOI:https://doi.org/10.1145/364520.364557}
+
+#### Essays in Memory of Antonina Starita
+
+* [Proceedings of the 2009 conference on Computational Intelligence and Bioengineering: Essays in Memory of Antonina Starita](https://dl.acm.org/doi/proceedings/10.5555/1659271)
+
+     * {Title: Essays in Memory of Antonina Starita}
+     * {Description: The contributions in this volume portrait the achievements of the authoress of the code featured in this SWH story. Tonina developed it in 1968, when she was a young research apprentice in Pisa, at CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes paragraph [here].(https://www.isti.cnr.it/en/about))}
+
+
+#### More on the recovery process
+
+* [Softi workbench](https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb)}
+
+     * {Title: Softi workbench}
+     * {Description: This repository was used to reconstruct the development story of the code, and to prepare the materials for its SWH story. Also, from here it is possible to reach the *depository* with all the original digital materials.}
 
 
