@@ -32,6 +32,7 @@ CreatorItem: Q108929353
      * {gender (P21): female}
      * more...
 
+
 ## Images to be loaded to Wikimedia Commons for the Softi story
 
 They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their respective proposed metadata are listed in the "Use of the above" section, below. 
@@ -203,14 +204,31 @@ Note: Since the links to the GitHub repository work correctly in SWH, it's conve
      * {source: https://www.msc.sma.unipi.it/foto/#jp-carousel-3023}
      * Current location in Commons: https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg 
 
+### Learn more moment
+
 #### More on FORTRAN CEP
 
-* CACM 1964 Paper on FORTRAN CEP
-     * {Logo: additional-materials\SWH-storiesWorkplace\ACMdigitalLibrayLogo.jpg}
-     * {Title: Paper on the FORTRAN CEP language.}
+* O.G. Mancino On Fortran CEP CACM 1964
+     * {Logo: additional-materials\SWH-storiesWorkplace\LogoACMdigitalLibrary.jpg}
+     * {Title: On the FORTRAN CEP language.}
+     * {Caption: Characteristics of the FORTRAN CEP language}
      * {Description: O. G. Mancino. Characteristics of the FORTRAN CEP language.  <i>Commun. ACM</i> 7, 7 (July 1964), 423–424. 
-     The paper describes the enhancements over FORTRAN II, mainly devoted to the input/output of quantities of type Real and the allowed input/output equipments.}
+     The paper describes some enhancements of FORTRAN II, mainly devoted to the input/output of quantities of type Real and the allowed input/output equipments.}
      * {LearnMoreButton: DOI:https://doi.org/10.1145/364520.364557}
+     * {LocalCopy: additional-materials\SWH-storiesWorkplace\OGMancinoOnFortranCACM1964.pdf}
+     * {Copyright: ACM Digital Library. No open access.}
+
+
+* O.G. Mancino on FORTRAN CEP Tech. Rep. 1963
+     * {Logo: additional-materials\SWH-storiesWorkplace\LogoTechRepCSCE.jpg}
+     * {Title: FORTRAN CEP User Manual}
+     * {Caption: FORTRAN CEP language, a FORTRAN II  version for the CEP.}
+     * {Description: O.G. Mancino. FORTRAN CEP language, a FORTRAN II  version for the CEP. C.S.C.E. Tech. Rep. 13, Oct.1963. 
+     The report is the user manual of FORTRAN CEP, a dialect of FORTRAN II. It highlights the differences between the two languages: FORTRAN CEP has more options in the input/output of quantities of type Real and in the allowed input/output equipments.}
+     * {Decimal Coordinates: 43.716528, 10.390481}
+     * {LocalCopy: additional-materials\SWH-storiesWorkplace\OGMancinoTechRep1963.pdf}
+     * {FileCopyright: MuntDlaGera, open access}
+     * {ContentCopyright: Tech. Rep. of CSCE (no longer existing), archived in the MSC in Pisa, which lets it be open access.}
 
 #### Essays in Memory of Antonina Starita
 
