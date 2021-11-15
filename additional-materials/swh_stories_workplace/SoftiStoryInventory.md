@@ -1,137 +1,123 @@
 # Story moments - a first attempt (revised)
 
-### Major changes
+*Wikidata items to be created are identified as Q\*xxx, for later reference inside this document. Once created, all references should be replaced with the actual Qid.*
 
-
-
-### Conventions
-
-Wikidata items to be created are identified as Q*xxx, for later reference inside this document. Once created, all references should be replaced with the actual Qid.
-
-In the statements, braces are used to pair the name-Pid and value of a property. The same holds for the fields of an uploaded image or video, iFrames, etc.
-
-
+*In the statements, braces are used to pair the name-Pid and value of a property. The same holds for the fields of an uploaded image or video, iFrames, etc.*
 
 ## Wikidata entities for the story
 
 SoftwareItem: Q108929297
+
+* Status: created
 * Label: Softi
 * Description: An early programming exercise in Numerical Analysis.
 * Statements
-     * {instanceof: software(Q7397)}
-     * {creator: Tonina Starita(Q108929353)}
-     * {platform: CEP - Calcolatrice Elettronica Pisana (Q3650499)}
-     * {inception: 13/2/1968}
-     * {end-time (P582): 4/4/1968}
+  * {instanceof: software(Q7397)}
+  * {creator: Tonina Starita(Q108929353)}
+  * {platform: CEP - Calcolatrice Elettronica Pisana (Q3650499)}
+  * {inception: 13/2/1968}
+  * {end-time (P582): 4/4/1968}
 
 CreatorItem: Q108929353
+
+* Status: created
 * Label: Tonina Starita
 * Description: Italian computer scientist
 * Statements
-     * {instanceof: human}
-     * {gender (P21): female}
-     * more...
-
-
-## Images to be loaded to Wikimedia Commons for the Softi story
-
-They are in folder SOFTI-WORKBENCH/workplace/ImagesToBeLoadedToCommons. Their respective proposed metadata are listed in the "Use of the above" section, below. 
+  * {instanceof: human}
+  * {gender (P21): female}
+  * more...
 
 ## Commons Categories to be created for the Softi story
+
 * Historical software with a SWH-story
-     * {Parent: Historical software}
+  * {Parent: Historical software}
 
 * Softi
-     * {Parent: Historical software with a SWH-story}
-     * {}
+  * {Parent: Historical software with a SWH-story}
+  * {}
 
-## Proposed use of the above
-
-In the following we look at how to use the above entities, images, etc., together with other items already in Wikimedia, in the moments of the Softi story.
-
-### The landing page
-
-posponed
-
-### Media gallery moment 
+## Media gallery moment
 
 * PER.LSDC.jpg
-     * {Title: PER.LSDC}
-     * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
-     * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
-     * {Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg)}
-     * {Developer: Tonina Starita (Q108929353)}
-     * {Author: {{Author|photo|MuntDlaGera}}}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code}
+  * {Title: [PER.LSDC](additional-materials/swh_stories_workplace/moment_media_gallery/PER.LSDC.jpg)}
+  * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([Q3650499](https://www.wikidata.org/wiki/Q3650499))}
+  * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
+  * {Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg)}
+  * {Developer: Tonina Starita (Q108929353)}
+  * {Author: {{Author|photo|MuntDlaGera}}}
+  * {Decimal Coordinates: 43.716528, 10.390481}
+  * {Categories: Softi source code}
 
 * LETT.LSDC.jpg
-     * {Title: LETT.LSDC}
-     * {Caption: Symbolic language code for the Calcolatrice Elettronica Pisana (Q3650499) }
-     * {Description: {{en|1=This is the printout of a subroutine to read data and code from paper tape, written in the Decimal Symbolic Language for the [https://www.wikidata.org/wiki/Q3650499 CEP (Q3650499)] (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)). It is part of [https://www.wikidata.org/wiki/Q108929297 Softi (Q108929297)], an early exercise in Numerical Analysis.}} }
-     * {Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg)}
-     * {Developer: Tonina Starita (Q108929353)}
-     * {Author: MuntDlaGera (Carlo Montangero)}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...} 
+  * {Title: [LETT.LSDC](additional-materials/swh_stories_workplace/moment_media_gallery/LETT.LSDC.jpg)}
+  * {Caption: Symbolic language code for the Calcolatrice Elettronica Pisana (Q3650499) }
+  * {Description: {{en|1=This is the printout of a subroutine to read data and code from paper tape, written in the Decimal Symbolic Language for the [<https://www.wikidata.org/wiki/Q3650499> CEP (Q3650499)] (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)). It is part of [<https://www.wikidata.org/wiki/Q108929297> Softi (Q108929297)], an early exercise in Numerical Analysis.}} }
+  * {Reference: [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg)}
+  * {Developer: Tonina Starita (Q108929353)}
+  * {Author: MuntDlaGera (Carlo Montangero)}
+  * {Decimal Coordinates: 43.716528, 10.390481}
+  * {Categories: Softi source code...}
 
 * Softi-V1.f.jpg
-     * {Title: Softi-V1.f}
-     * {Caption: Main Softi FORTRAN program - V1}
-     * {Description: This is the handwritten first version of the Softi main program.}
-     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V1.f.jpg)}
-     * {Developer: Tonina Starita (Q108929353)}
-     * {Author: MuntDlaGera (Carlo Montangero)}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...}
+  * {Title: [Softi-V1.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V1.f.jpg)}
+  * {Caption: Main Softi FORTRAN program - V1}
+  * {Description: This is the handwritten first version of the Softi main program.}
+  * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V1.f.jpg)}
+  * {Developer: Tonina Starita (Q108929353)}
+  * {Author: MuntDlaGera (Carlo Montangero)}
+  * {Decimal Coordinates: 43.716528, 10.390481}
+  * {Categories: Softi source code...}
 
 * Softi-V2-3.f.jpg
-     * {Title: Softi-V2-3.f}
-     * {Caption: Main Softi FORTRAN program - V2 & V3}
-     * {Description: These are version two (printed) and third (handwritten) of the Softi main program.}
-     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V2-3.f.jpg)}
-     * {Developer: Tonina Starita (Q108929353)}
-     * {Author: MuntDlaGera (Carlo Montangero)}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...}
+  * {Title: [Softi-V2-3.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V2-3.f.jpg)}
+  * {Caption: Main Softi FORTRAN program - V2 & V3}
+  * {Description: These are version two (printed) and third (handwritten) of the Softi main program.}
+  * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V2-3.f.jpg)}
+  * {Developer: Tonina Starita (Q108929353)}
+  * {Author: MuntDlaGera (Carlo Montangero)}
+  * {Decimal Coordinates: 43.716528, 10.390481}
+  * {Categories: Softi source code...}
 
 * Softi-V4.f.jpg
-     * {Title: Softi-V4.f}
-     * {Caption: Main Softi FORTRAN program - V4}
-     * {Description: This is the fourth version of the Softi main program, with art work of the programmer.}
-     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V4.f.jpg)}
-     * {Developer: Tonina Starita (Q108929353)}
-     * {Author: MuntDlaGera (Carlo Montangero)}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...}
+  * {Title: [Softi-V4.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V4.f.jpg)}
+  * {Caption: Main Softi FORTRAN program - V4}
+  * {Description: This is the fourth version of the Softi main program, with art work of the programmer.}
+  * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V4.f.jpg)}
+  * {Developer: Tonina Starita (Q108929353)}
+  * {Author: MuntDlaGera (Carlo Montangero)}
+  * {Decimal Coordinates: 43.716528, 10.390481}
+  * {Categories: Softi source code...}
 
 * LoadingTrace.PDT.jpg
-     * {Title: LoadingTrace.PDT}
-     * {Caption: Loading commands to execute Softi (Q108929297) on the CEP (Q3650499)}
-     * {Description: This is the trace of the loading process needed to execute the Softi source code on 29/3/1968.}
-     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/LoadingTrace.PDT.jpg)}
-     * {Developer: Tonina Starita (Q108929353)}
-     * {Author: MuntDlaGera (Carlo Montangero)}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...}
+  * {Title: [LoadingTrace.PDT](additional-materials/swh_stories_workplace/moment_media_gallery/LoadingTrace.PDT.jpg)}
+  * {Caption: Loading commands to execute Softi (Q108929297) on the CEP (Q3650499)}
+  * {Description: This is the trace of the loading process needed to execute the Softi source code on 29/3/1968.}
+  * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/LoadingTrace.PDT.jpg)}
+  * {Developer: Tonina Starita (Q108929353)}
+  * {Author: MuntDlaGera (Carlo Montangero)}
+  * {Decimal Coordinates: 43.716528, 10.390481}
+  * {Categories: Softi source code...}
 
 * ExecutionOutput19680404.jpg
-     * {Title: Softi Execution Trace}
-     * {Caption: Trace of an attempt to execute Softi}
-     * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
-     * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
-     * {Developer: Tonina Starita (Q108929353)}
-     * {Author: MuntDlaGera (Carlo Montangero)}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...}
+  * {Title: [Softi Execution Trace](additional-materials/swh_stories_workplace/moment_media_gallery/SoftiExecutionTrace.jpg)}
+  * {Caption: Trace of an attempt to execute Softi}
+  * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
+  * {Reference: [Softi Workbench](https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg)}
+  * {Developer: Tonina Starita (Q108929353)}
+  * {Author: MuntDlaGera (Carlo Montangero)}
+  * {Decimal Coordinates: 43.716528, 10.390481}
+  * {Categories: Softi source code...}
 
-* more? 
+* [UniPi_Calcolatrice_Elettronica_Pisana2](https://commons.wikimedia.org/wiki/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg)
 
-### Wikipedia article moment
+## Wikipedia article moment
 
-NA
+Link to Wikipedia, if any.
 
-### Timeline moment
+## Timeline moment
+
+*DESIDERATA*
 
 Here are the dates of the first and last versions of the codes:
 
@@ -149,99 +135,122 @@ Here are the dates of the first and last versions of the codes:
 
 *Question: we might also put here the dates when they were saved in SWH. Again, do we need a new property?*
 
-### Map moment
+## Map moment
 
-* https://upload.wikimedia.org/wikipedia/commons/4/43/Veduta_napoletana_001.JPG
-     * {Title: Naples, Italy}
-     * {Description: Tonina's birthplace.}
-* https://commons.wikimedia.org/wiki/File:The_Leaning_Tower_of_Pisa_SB.jpeg
-     * {Title: Pisa, Italy}
-     * {Description: Tonina's place of death.}
-* https://commons.wikimedia.org/wiki/File:Pisa_-_veduta_dall%27aereo_4.JPG
-     * {Title: Pisa, Italy}
-     * {Description: City where the software was developed.}
+*DESIDERATA*
 
-### People moment
+* <https://upload.wikimedia.org/wikipedia/commons/4/43/Veduta_napoletana_001.JPG>
+  * {Title: Naples, Italy}
+  * {Description: Tonina's birthplace.}
+* <https://commons.wikimedia.org/wiki/File:The_Leaning_Tower_of_Pisa_SB.jpeg>
+  * {Title: Pisa, Italy}
+  * {Description: Tonina's place of death.}
+* <https://commons.wikimedia.org/wiki/File:Pisa_-_veduta_dall%27aereo_4.JPG>
+  * {Title: Pisa, Italy}
+  * {Description: City where the software was developed.}
+
+## People moment
+
 * Q108929353
-* ToninaStarita.png
-     * {Title:ToninaStarita.png}
-     * {Caption: Antonina (Tonina) Starita ([Q108929353](https://www.wikidata.org/wiki/Qxxxxxxx))}
-     * {Description: {{en|1=Starita was was an Italian computer scientist, active in Pisa since the sixties, when she was with CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes [https://www.isti.cnr.it/en/about here]). She then became professor at the Computer Science Department of the University of Pisa. Her contributions to Computer Science were in Computational Intelligence and Bioengineering. Her seminal activity continues at the [http://www.di.unipi.it/groups/ciml Computational Intelligence & Machine Learning Group] and the [http://www.neurolab.ing.unirc.it/ Neurolab] she contributed to found.}} }
-     * {Reference: [Softi Worbench](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
-     * {Author: {{Author|Unknown}} {{Author|upload|MuntDlaGera}}}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {Categories: Softi source code...}
+* [ToninaStarita.png](additional-materials/swh_stories_workplace/moment_people_gallery/ToninaStarita.png)
+  * {Title:ToninaStarita.png}
+  * {Caption: Antonina (Tonina) Starita ([Q108929353](https://www.wikidata.org/wiki/Qxxxxxxx))}
+  * {Description: {{en|1=Starita was was an Italian computer scientist, active in Pisa since the sixties, when she was with CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes [<https://www.isti.cnr.it/en/about> here]). She then became professor at the Computer Science Department of the University of Pisa. Her contributions to Computer Science were in Computational Intelligence and Bioengineering. Her seminal activity continues at the [<http://www.di.unipi.it/groups/ciml> Computational Intelligence & Machine Learning Group] and the [<http://www.neurolab.ing.unirc.it/> Neurolab] she contributed to found.}} }
+  * {Reference: [Softi Worbench](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/ToninaStarita.png)}
+  * {Author: {{Author|Unknown}} {{Author|upload|MuntDlaGera}}}
+  * {Decimal Coordinates: 43.716528, 10.390481}
+  * {Categories: Softi source code...}
 
 *Question: should we put also Guido, Laura and myself as collectors and curators? Or it is too narcissitic? (Guido says no - Having got a better understanding I think not)*
 
-### Wikidata statements moment
-I guess this is done automatically.
+### People gallery moment
 
+* TonitaStarita.jpg
+  * {Title: [Tonina Starita](additional-materials/swh_stories_workplace/moment_people_gallery/ToninaStarita.png)}
 
-### SWH source code moment
+### People documents moment
 
-Note: Since the links to the GitHub repository work correctly in SWH, it's convenient to create iFrames with the SWHIDs of the pages in the archived repository.
+## Library Moment
 
-* iFrame-1
-     * {Link: [Softi repository- source code branch](https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb)}
+*DESIDERATA*
 
-     * {Title: Reconstructed development story of the Softi source code.}
+### Linked documents
 
-*Question: should we also add direct links to (some of) the code files shown in the Media Gallery moment?*
+[O.G. Mancino - Characteristics of the FORTRAN CEP language](https://dl.acm.org/doi/10.1145/364520.364557)
 
-#### About the CEP
+### Embedded documents
 
-* https://www.wikidata.org/wiki/Q3650499?uselang=it#/media/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg
-     * {Title: View of the CEP - contemporary}
-     * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
-     * {Description: This picture shows the computer for which the Softi source code was developed, as it has been saved in the Museum for Computing Machinery of the University of Pisa.}
+[O.G. Mancino - FORTRAN CEP language](additional-materials/swh_stories_workplace/moment_documents/OGMancinoTechRep1963.pdf)
 
-* cep04.CEP_.jpg 
-     * {Title: View of the CEP - original}
-     * {Caption: view of the Calcolatrice Elettronica Pisana - CEP, in the sixties.}
-     * {Description: This picture shows the computer for which the Softi source code was developed, as it was in the sixties, when the code was written.}
-     * {Date: 21/10/2021} 
-     * {source: https://www.msc.sma.unipi.it/foto/#jp-carousel-3023}
-     * Current location in Commons: https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg 
+### Source Code Listin
 
-### Learn more moment
+[Softi : V2 and V3](additional-materials/swh_stories_workplace/moment_documents/Softi-V2-3.f.pdf)
 
-#### More on FORTRAN CEP
+## Wikidata statements moment
+
+*DESIDERATA*
+
+Specification of important statements.
+Then, the moment is done automatically.
+
+## SWH source code moment
+
+* {Title: Reconstructed development story of the Softi source code.}
+
+  {Link: [Softi repository- source code branch](https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb)}
+
+## Learn more moment
+
+*DESIDERATA*
+
+### About the CEP
+
+* <https://www.wikidata.org/wiki/Q3650499?uselang=it#/media/File:UniPi_Calcolatrice_Elettronica_Pisana2.jpg>
+  * {Title: View of the CEP - contemporary}
+  * {Caption: (view of the Pisa Electronic Computer (Calcolatrice Elettronica Pisana - CEP) ([Q3650499](https://www.wikidata.org/wiki/Q3650499)))}
+  * {Description: This picture shows the computer for which the Softi source code was developed, as it has been saved in the Museum for Computing Machinery of the University of Pisa.}
+
+* cep04.CEP_.jpg
+  * {Title: View of the CEP - original}
+  * {Caption: view of the Calcolatrice Elettronica Pisana - CEP, in the sixties.}
+  * {Description: This picture shows the computer for which the Softi source code was developed, as it was in the sixties, when the code was written.}
+  * {Date: 21/10/2021}
+  * {source: <https://www.msc.sma.unipi.it/foto/#jp-carousel-3023>}
+  * Current location in Commons: <https://commons.wikimedia.org/wiki/File:View_of_the_CEP_-_original.jpg>
+
+### More on FORTRAN CEP
 
 * O.G. Mancino On Fortran CEP CACM 1964
-     * {Logo: additional-materials\SWH-storiesWorkplace\LogoACMdigitalLibrary.jpg}
-     * {Title: On the FORTRAN CEP language.}
-     * {Caption: Characteristics of the FORTRAN CEP language}
-     * {Description: O. G. Mancino. Characteristics of the FORTRAN CEP language.  <i>Commun. ACM</i> 7, 7 (July 1964), 423–424. 
+  * {Logo: additional-materials\SWH-storiesWorkplace\LogoACMdigitalLibrary.jpg}
+  * {Title: On the FORTRAN CEP language.}
+  * {Caption: Characteristics of the FORTRAN CEP language}
+  * {Description: O. G. Mancino. Characteristics of the FORTRAN CEP language.  <i>Commun. ACM</i> 7, 7 (July 1964), 423–424.
      The paper describes some enhancements of FORTRAN II, mainly devoted to the input/output of quantities of type Real and the allowed input/output equipments.}
-     * {LearnMoreButton: DOI:https://doi.org/10.1145/364520.364557}
-     * {LocalCopy: additional-materials\SWH-storiesWorkplace\OGMancinoOnFortranCACM1964.pdf}
-     * {Copyright: ACM Digital Library. No open access.}
-
+  * {LearnMoreButton: DOI:<https://doi.org/10.1145/364520.364557>}
+  * {LocalCopy: additional-materials\SWH-storiesWorkplace\OGMancinoOnFortranCACM1964.pdf}
+  * {Copyright: ACM Digital Library. No open access.}
 
 * O.G. Mancino on FORTRAN CEP Tech. Rep. 1963
-     * {Logo: additional-materials\SWH-storiesWorkplace\LogoTechRepCSCE.jpg}
-     * {Title: FORTRAN CEP User Manual}
-     * {Caption: FORTRAN CEP language, a FORTRAN II  version for the CEP.}
-     * {Description: O.G. Mancino. FORTRAN CEP language, a FORTRAN II  version for the CEP. C.S.C.E. Tech. Rep. 13, Oct.1963. 
+  * {Logo: additional-materials\SWH-storiesWorkplace\LogoTechRepCSCE.jpg}
+  * {Title: FORTRAN CEP User Manual}
+  * {Caption: FORTRAN CEP language, a FORTRAN II  version for the CEP.}
+  * {Description: O.G. Mancino. FORTRAN CEP language, a FORTRAN II  version for the CEP. C.S.C.E. Tech. Rep. 13, Oct.1963.
      The report is the user manual of FORTRAN CEP, a dialect of FORTRAN II. It highlights the differences between the two languages: FORTRAN CEP has more options in the input/output of quantities of type Real and in the allowed input/output equipments.}
-     * {Decimal Coordinates: 43.716528, 10.390481}
-     * {LocalCopy: additional-materials\SWH-storiesWorkplace\OGMancinoTechRep1963.pdf}
-     * {FileCopyright: MuntDlaGera, open access}
-     * {ContentCopyright: Tech. Rep. of CSCE (no longer existing), archived in the MSC in Pisa, which lets it be open access.}
+  * {Decimal Coordinates: 43.716528, 10.390481}
+  * {LocalCopy: additional-materials\SWH-storiesWorkplace\OGMancinoTechRep1963.pdf}
+  * {FileCopyright: MuntDlaGera, open access}
+  * {ContentCopyright: Tech. Rep. of CSCE (no longer existing), archived in the MSC in Pisa, which lets it be open access.}
 
-#### Essays in Memory of Antonina Starita
+### Essays in Memory of Antonina Starita
 
 * [Proceedings of the 2009 conference on Computational Intelligence and Bioengineering: Essays in Memory of Antonina Starita](https://dl.acm.org/doi/proceedings/10.5555/1659271)
 
-     * {Title: Essays in Memory of Antonina Starita}
-     * {Description: The contributions in this volume portrait the achievements of the authoress of the code featured in this SWH story. Tonina developed it in 1968, when she was a young research apprentice in Pisa, at CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes paragraph [here https://www.isti.cnr.it/en/about])}
+  * {Title: Essays in Memory of Antonina Starita}
+  * {Description: The contributions in this volume portrait the achievements of the authoress of the code featured in this SWH story. Tonina developed it in 1968, when she was a young research apprentice in Pisa, at CSCE-CNR (later IEI, then ISTI: you may want to look at the short historical notes paragraph [here <https://www.isti.cnr.it/en/about>])}
 
-
-#### More on the recovery process
+### More on the recovery process
 
 * [Softi workbench](https://archive.softwareheritage.org/swh:1:dir:b0c85c6dd2e62311046c077ee8f57563823408e3;origin=https://github.com/Unipisa/Softi-Workbench;visit=swh:1:snp:c17894ec99edb9bddba17f69d018cfa578593d3b;anchor=swh:1:rev:092a927d8ed365ed600dd4e96932437731749bbb)}
 
-     * {Title: Softi workbench}
-     * {Description: This repository was used to reconstruct the development story of the code, and to prepare the materials for its SWH story. Also, from here it is possible to reach the *depository* with all the original digital materials.}
-
+  * {Title: Softi workbench}
+  * {Description: This repository was used to reconstruct the development story of the code, and to prepare the materials for its SWH story. Also, from here it is possible to reach the *depository* with all the original digital materials.}
