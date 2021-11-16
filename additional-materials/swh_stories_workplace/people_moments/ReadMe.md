@@ -1,6 +1,8 @@
-# Softi People gallery moment
+# Softi People moments
 
-### This folder provides storage for the images and videos related to the people involved in the Softi software project. 
+### This folder provides storage for the images, videos, documents, etc. related to the people involved in the Softi software project. 
+
+The people story moments fall in two classes, with a dedicated sub-folder each: *gallery*, for images and videos, and *library*, for documents.
 
 An entry should be added to the [StoryInventory](..\StoryInventory.md) file for each added item, following the pattern offered in the dedicated section.
 
