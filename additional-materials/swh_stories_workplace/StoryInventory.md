@@ -5,7 +5,7 @@
 *In the statements, braces are used to pair the name-Pid and value of a property. The same holds for the fields of an uploaded image or video, iFrames, etc.*
 
 *Most of what is entered here will be copied in other documents, mostly in WikiMedia. Hence, the links to the web entered in this document should be in the style of the environment in which they will be used, and not in markdown.
-For instance, the reference property for the PER.LSDC.jpg image should be entered as [https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg Softi Depository] and not as [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg).
+For instance, the reference property for the PER.LSDC.jpg image should be entered as [<https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg> Softi Depository] and not as [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg).
 
 The appearence in the resulting .md file is not so nice, but this is a working document, anyway.*
 
@@ -46,77 +46,75 @@ CreatorItem: Q108929353
 
 *Note: No URLs in the captions*
 
-* PER.LSDC.jpg
-  * {Title: [PER.LSDC](additional-materials/swh_stories_workplace/moment_media_gallery/PER.LSDC.jpg)}
-  * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([https://www.wikidata.org/wiki/Q3650499 Q3650499])}
+* [PER.LSDC](additional-materials/swh_stories_workplace/moment_media_gallery/PER.LSDC.jpg)}
+  * {Title: PER.LSDC.jpg
+  * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([<https://www.wikidata.org/wiki/Q3650499> Q3650499])}
   * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
-  * {Reference: [https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg Softi Depository]}
+  * {Reference: [<https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg> Softi Depository]}
   * {Developer: Tonina Starita (Q108929353)}
   * {Author: {{Author|photo|MuntDlaGera}}}
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code}
 
-* LETT.LSDC.jpg
-  * {Title: [LETT.LSDC](additional-materials/swh_stories_workplace/moment_media_gallery/LETT.LSDC.jpg)}
+* [LETT.LSDC](additional-materials/swh_stories_workplace/moment_media_gallery/LETT.LSDC.jpg)}
+  * {Title: LETT.LSDC.jpg
   * {Caption: Symbolic language code for the Calcolatrice Elettronica Pisana (Q3650499) }
   * {Description: {{en|1=This is the printout of a subroutine to read data and code from paper tape, written in the Decimal Symbolic Language for the [<https://www.wikidata.org/wiki/Q3650499> CEP (Q3650499)] (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)). It is part of [<https://www.wikidata.org/wiki/Q108929297> Softi (Q108929297)], an early exercise in Numerical Analysis.}} }
-  * {Reference: [https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg Softi Depository]}
+  * {Reference: [<https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094518.jpg> Softi Depository]}
   * {Developer: Tonina Starita (Q108929353)}
   * {Author: MuntDlaGera (Carlo Montangero)}
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* Softi-V1.f.jpg
-  * {Title: [Softi-V1.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V1.f.jpg)}
+* [Softi-V1.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V1.f.jpg)}
+  * {Title: Softi-V1.f.jpg
   * {Caption: Main Softi FORTRAN program - V1}
   * {Description: This is the handwritten first version of the Softi main program.}
-  * {Reference: [https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V1.f.jpg Softi Workbench]}
+  * {Reference: [<https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V1.f.jpg> Softi Workbench]}
   * {Developer: Tonina Starita (Q108929353)}
   * {Author: MuntDlaGera (Carlo Montangero)}
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* Softi-V2-3.f.jpg
-  * {Title: [Softi-V2-3.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V2-3.f.jpg)}
+* [Softi-V2-3.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V2-3.f.jpg)}
+  * {Title: Softi-V2-3.f.jpg
   * {Caption: Main Softi FORTRAN program - V2 & V3}
   * {Description: These are version two (printed) and third (handwritten) of the Softi main program.}
-  * {Reference: [https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V2-3.f.jpg Softi Workbench]}
+  * {Reference: [<https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V2-3.f.jpg> Softi Workbench]}
   * {Developer: Tonina Starita (Q108929353)}
   * {Author: MuntDlaGera (Carlo Montangero)}
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* Softi-V4.f.jpg
-  * {Title: [Softi-V4.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V4.f.jpg)}
+* [Softi-V4.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V4.f.jpg)}
+  * {Title: Softi-V4.f.jpg
   * {Caption: Main Softi FORTRAN program - V4}
   * {Description: This is the fourth version of the Softi main program, with art work of the programmer.}
-  * {Reference: [https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V4.f.jpg Softi Workbench]}
+  * {Reference: [<https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/Softi-V4.f.jpg> Softi Workbench]}
   * {Developer: Tonina Starita (Q108929353)}
   * {Author: MuntDlaGera (Carlo Montangero)}
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* LoadingTrace.PDT.jpg
-  * {Title: [LoadingTrace.PDT](additional-materials/swh_stories_workplace/moment_media_gallery/LoadingTrace.PDT.jpg)}
+* [LoadingTrace.PDT](additional-materials/swh_stories_workplace/moment_media_gallery/LoadingTrace.PDT.jpg)}
+  * {Title: LoadingTrace.PDT.jpg
   * {Caption: Loading commands to execute Softi (Q108929297) on the CEP (Q3650499)}
   * {Description: This is the trace of the loading process needed to execute the Softi source code on 29/3/1968.}
-  * {Reference: [https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/LoadingTrace.PDT.jpg Softi Workbench]}
+  * {Reference: [<https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/LoadingTrace.PDT.jpg> Softi Workbench]}
   * {Developer: Tonina Starita (Q108929353)}
   * {Author: MuntDlaGera (Carlo Montangero)}
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* ExecutionOutput19680404.jpg
-  * {Title: [Softi Execution Trace](additional-materials/swh_stories_workplace/moment_media_gallery/SoftiExecutionTrace.jpg)}
+* [Softi Execution Trace](additional-materials/swh_stories_workplace/moment_media_gallery/SoftiExecutionTrace.jpg)}
+  * {Title: Softi Execution Trace.jpg
   * {Caption: Trace of an attempt to execute Softi}
   * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
-  * {Reference: [https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg Softi Workbench]}
+  * {Reference: [<https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg> Softi Workbench]}
   * {Developer: Tonina Starita (Q108929353)}
   * {Author: MuntDlaGera (Carlo Montangero)}
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
-
-
 
 ## Wikipedia article moment
 
