@@ -1,4 +1,4 @@
-# SOfti SWH-stories workplace
+# Softi SWH-stories workplace
 
 ### This folder provides a template supporting the presentation of the Softi software project in a [SWH-story](https://swh.stories.k2.services/).
 
