@@ -6,7 +6,6 @@
 
 *Most of what is entered here will be copied in other documents, mostly in WikiMedia. Hence, the links to the web entered in this document should be in the style of the environment in which they will be used, and not in markdown.
 For instance, the reference property for the PER.LSDC.jpg image should be entered as [<https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg> Softi Depository] and not as [Softi Depository](https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094617.jpg).
-
 The appearence in the resulting .md file is not so nice, but this is a working document, anyway.*
 
 ## Wikidata entities for the story
