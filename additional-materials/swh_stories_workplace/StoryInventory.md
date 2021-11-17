@@ -105,7 +105,7 @@ CreatorItem: Q108929353
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* [Softi Execution Trace](additional-materials/swh_stories_workplace/moment_software_media_gallery/SoftiExecutionTrace.jpg)}
+* [Softi Execution Trace](additional-materials/swh_stories_workplace/moment_software_media_gallery/SoftiExecutionTrace.jpg)
   * {Title: Softi Execution Trace.jpg
   * {Caption: Trace of an attempt to execute Softi}
   * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
