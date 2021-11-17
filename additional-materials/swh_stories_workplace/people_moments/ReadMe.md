@@ -4,6 +4,6 @@
 
 The people story moments fall in two classes, with a dedicated sub-folder each: *gallery*, for images and videos, and *library*, for documents.
 
-An entry should be added to the [StoryInventory](..\StoryInventory.md) file for each added item, following the pattern offered in the dedicated section.
+An entry should be added to the [StoryInventory](https://github.com/Unipisa/Softi-Workbench/blob/structure_review/additional-materials/swh_stories_workplace/StoryInventory.md) file for each added item, following the pattern offered in the dedicated section.
 
 Please refer to the [SWHAP@Pisa](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf#CreateaSWH-story) guidelines for greater details.

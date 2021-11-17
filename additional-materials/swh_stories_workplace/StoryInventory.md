@@ -46,7 +46,7 @@ CreatorItem: Q108929353
 
 *Note: No URLs in the captions*
 
-* [PER.LSDC](additional-materials/swh_stories_workplace/moment_media_gallery/PER.LSDC.jpg)}
+* [PER.LSDC](additional-materials/swh_stories_workplace/moment_software_media_gallery/PER.LSDC.jpg)}
   * {Title: PER.LSDC.jpg
   * {Caption: Symbolic language code for the [Calcolatrice Elettronica Pisana]([<https://www.wikidata.org/wiki/Q3650499> Q3650499])}
   * {Description: Subroutine to punch data and code on paper tape. Decimal Symbolic Language for CEP (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)).}
@@ -56,7 +56,7 @@ CreatorItem: Q108929353
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code}
 
-* [LETT.LSDC](additional-materials/swh_stories_workplace/moment_media_gallery/LETT.LSDC.jpg)}
+* [LETT.LSDC](additional-materials/swh_stories_workplace/moment_software_media_gallery/LETT.LSDC.jpg)}
   * {Title: LETT.LSDC.jpg
   * {Caption: Symbolic language code for the Calcolatrice Elettronica Pisana (Q3650499) }
   * {Description: {{en|1=This is the printout of a subroutine to read data and code from paper tape, written in the Decimal Symbolic Language for the [<https://www.wikidata.org/wiki/Q3650499> CEP (Q3650499)] (in Italian: Linguaggio Simbolico Decimale CEP (LSDC)). It is part of [<https://www.wikidata.org/wiki/Q108929297> Softi (Q108929297)], an early exercise in Numerical Analysis.}} }
@@ -66,7 +66,7 @@ CreatorItem: Q108929353
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* [Softi-V1.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V1.f.jpg)}
+* [Softi-V1.f](additional-materials/swh_stories_workplace/moment_software_media_gallery/Softi-V1.f.jpg)}
   * {Title: Softi-V1.f.jpg
   * {Caption: Main Softi FORTRAN program - V1}
   * {Description: This is the handwritten first version of the Softi main program.}
@@ -76,7 +76,7 @@ CreatorItem: Q108929353
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* [Softi-V2-3.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V2-3.f.jpg)}
+* [Softi-V2-3.f](additional-materials/swh_stories_workplace/moment_software_media_gallery/Softi-V2-3.f.jpg)}
   * {Title: Softi-V2-3.f.jpg
   * {Caption: Main Softi FORTRAN program - V2 & V3}
   * {Description: These are version two (printed) and third (handwritten) of the Softi main program.}
@@ -86,7 +86,7 @@ CreatorItem: Q108929353
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* [Softi-V4.f](additional-materials/swh_stories_workplace/moment_media_gallery/Softi-V4.f.jpg)}
+* [Softi-V4.f](additional-materials/swh_stories_workplace/moment_software_media_gallery/Softi-V4.f.jpg)}
   * {Title: Softi-V4.f.jpg
   * {Caption: Main Softi FORTRAN program - V4}
   * {Description: This is the fourth version of the Softi main program, with art work of the programmer.}
@@ -96,7 +96,7 @@ CreatorItem: Q108929353
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* [LoadingTrace.PDT](additional-materials/swh_stories_workplace/moment_media_gallery/LoadingTrace.PDT.jpg)}
+* [LoadingTrace.PDT](additional-materials/swh_stories_workplace/moment_software_media_gallery/LoadingTrace.PDT.jpg)}
   * {Title: LoadingTrace.PDT.jpg
   * {Caption: Loading commands to execute Softi (Q108929297) on the CEP (Q3650499)}
   * {Description: This is the trace of the loading process needed to execute the Softi source code on 29/3/1968.}
@@ -106,7 +106,7 @@ CreatorItem: Q108929353
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
 
-* [Softi Execution Trace](additional-materials/swh_stories_workplace/moment_media_gallery/SoftiExecutionTrace.jpg)}
+* [Softi Execution Trace](additional-materials/swh_stories_workplace/moment_software_media_gallery/SoftiExecutionTrace.jpg)}
   * {Title: Softi Execution Trace.jpg
   * {Caption: Trace of an attempt to execute Softi}
   * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
@@ -185,11 +185,11 @@ Here are the dates of the first and last versions of the codes:
 
 ### Embedded documents
 
-[O.G. Mancino - FORTRAN CEP language](additional-materials/swh_stories_workplace/moment_documents/OGMancinoTechRep1963.pdf)
+[O.G. Mancino - FORTRAN CEP language](additional-materials/swh_stories_workplace/moment_library/OGMancinoTechRep1963.pdf)
 
 ### Source Code Listing
 
-[Softi : V2 and V3](additional-materials/swh_stories_workplace/moment_documents/Softi-V2-3.f.pdf)
+[Softi : V2 and V3](additional-materials/swh_stories_workplace/moment_software_code_listing/Softi-V2-3.f.pdf)
 
 ## Wikidata statements moment
 
