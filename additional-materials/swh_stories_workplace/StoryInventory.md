@@ -110,11 +110,13 @@ CreatorItem: Q108929353
   * {Title: Softi Execution Trace.jpg
   * {Caption: Trace of an attempt to execute Softi}
   * {Description: This is the trace of an attempt to execute Softi on 4/4/1968. The handwritten annotation reads "After loading the SOFTI Program, the assembler halted at 4095".}
-  * {Reference: [<https://github.com/Unipisa/Softi-Workbench/blob/master/additional-materials/workplace/ImagesToBeLoadedToCommons/ExecutionOutput19680404.jpg> Softi Workbench]}
-  * {Developer: Tonina Starita (Q108929353)}
   * {Author: MuntDlaGera (Carlo Montangero)}
+  * {Reference: [<https://github.com/Unipisa/Softi-Depository/blob/master/raw_materials/Photos/IMG_20190722_094751.jpg> Softi Workbench]}
+  * {Developer: Tonina Starita (Q108929353)}
   * {Decimal Coordinates: 43.716528, 10.390481}
   * {Categories: Softi source code...}
+
+*Note: what reference url to use when materials are not in the depository ?*
 
 ## Wikipedia article moment
 
